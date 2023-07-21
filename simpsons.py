@@ -6,7 +6,7 @@ def simsonstables():
     simpsonsdata = pandas.read_html(article)
     for x in range(len(simpsonsdata)):
         with open(f"simpsons{x}.csv","w") as file:
-            file.write(str(simpsonsdata[0]))
+            file.write(str(simpsonsdata[x]))
 
 
 simsonstables()
