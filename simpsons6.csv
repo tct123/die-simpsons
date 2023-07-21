@@ -1,36 +1,28 @@
-   Staffel Episoden­anzahl Erstausstrahlung USA                  Deutschsprachige Erstveröffentlichung                    
-   Staffel Episoden­anzahl      Staffelpremiere    Staffelfinale                       Staffelpremiere       Staffelfinale
-0        1              13    17. Dezember 1989     13. Mai 1990                      28. Februar 1991   13. Dezember 1991
-1        2              22     11. Oktober 1990    11. Juli 1991                     20. Dezember 1991       19. Juni 1992
-2        3              24   19. September 1991  27. August 1992                        5. Januar 1993       7. April 1994
-3        4              22   24. September 1992     13. Mai 1993                      16. Februar 1993   31. Dezember 1996
-4        5              22   30. September 1993     19. Mai 1994                       14. August 1994     2. Oktober 1999
-5        6              25    4. September 1994     21. Mai 1995                         15. Juli 1995   27. Dezember 1999
-6        7              25   17. September 1995     19. Mai 1996                      4. November 1996   27. Dezember 1999
-7        8              25     27. Oktober 1996     18. Mai 1997                     5. September 1997    31. Oktober 1998
-8        9              25   21. September 1997     17. Mai 1998                       6. Oktober 1998     16. Januar 2000
-9       10              23      23. August 1998     16. Mai 1999                     15. November 1999   28. Dezember 1999
-10      11              22   26. September 1999     21. Mai 2000                     4. September 2000    12. Februar 2001
-11      12              21     1. November 2000     20. Mai 2001                    24. September 2001    18. Februar 2002
-12      13              22     6. November 2001     22. Mai 2002                       8. Februar 2003        5. Juli 2003
-13      14              22     3. November 2002     18. Mai 2003                       10. Januar 2004        29. Mai 2004
-14      15              22     2. November 2003     23. Mai 2004                      30. Oktober 2004        5. März 2005
-15      16              21     7. November 2004     15. Mai 2005                      29. Oktober 2005    11. Februar 2006
-16      17              22   11. September 2005     21. Mai 2006                     3. September 2006       8. April 2007
-17      18              22   10. September 2006     20. Mai 2007                     9. September 2007     27. Januar 2008
-18      19              20   23. September 2007     18. Mai 2008                       6. Oktober 2008        2. März 2009
-19      20              21   28. September 2008     17. Mai 2009                    15. September 2009      13. April 2010
-20      21              23   27. September 2009     23. Mai 2010                     7. September 2010        17. Mai 2011
-21      22              22   26. September 2010     22. Mai 2011                       30. August 2011       20. März 2012
-22      23              22   25. September 2011     20. Mai 2012                       27. August 2012       18. März 2013
-23      24              22   30. September 2012     19. Mai 2013                       26. August 2013       17. März 2014
-24      25              22   29. September 2013     18. Mai 2014                     1. September 2014       16. März 2015
-25      26              22   28. September 2014     17. Mai 2015                       18. August 2015       15. März 2016
-26      27              22   27. September 2015     22. Mai 2016                       30. August 2016        23. Mai 2017
-27      28              22   25. September 2016     21. Mai 2017                       29. August 2017       13. März 2018
-28      29              21      1. Oktober 2017     20. Mai 2018                       14. August 2018       11. März 2019
-29      30              23   30. September 2018     12. Mai 2019                      28. Oktober 2019       24. März 2020
-30      31              22   29. September 2019     17. Mai 2020                       10. August 2020   27. November 2020
-31      32              22   27. September 2020     23. Mai 2021                       8. Februar 2021  29. September 2021
-32      33              22   26. September 2021     22. Mai 2022                        3. Januar 2022  28. September 2022
-33      34              22   25. September 2022     21. Mai 2023                                   NaN                 NaN
+    Nr. (ges.)  Nr. (St.)                   Deutscher Titel  ... Erstaus­strahlung (USA) Deutsch­sprachige Erstaus­strahlung (D) Zuschauer (USA)
+0          104          1            Ein grausiger Verdacht  ...            4. Sep. 1994                           15. Juli 1995       15,1 Mio.
+1          105          2                     Lisas Rivalin  ...           11. Sep. 1994                           22. Juli 1995       16,7 Mio.
+2          106          3              Romantik ist überall  ...           25. Sep. 1994                           29. Juli 1995       13,5 Mio.
+3          107          4   Der unheimliche Vergnügungspark  ...            2. Okt. 1994                            5. Aug. 1995       14,8 Mio.
+4          108          5                  Tingeltangel-Bob  ...            9. Okt. 1994                           12. Aug. 1995       14,4 Mio.
+5          109          6       Furcht und Grauen ohne Ende  ...           30. Okt. 1994                           27. Dez. 1999       22,2 Mio.
+6          110          7                    Barts Freundin  ...            6. Nov. 1994                           19. Aug. 1995       15,3 Mio.
+7          111          8                 Lisa auf dem Eise  ...           13. Nov. 1994                            3. Sep. 1995       17,9 Mio.
+8          112          9    Die Babysitterin und das Biest  ...           27. Nov. 1994                           10. Sep. 1995         17 Mio.
+9          113         10  Grandpa gegen sexuelles Versagen  ...            4. Dez. 1994                           17. Sep. 1995       14,1 Mio.
+10         114         11                Angst vorm Fliegen  ...           18. Dez. 1994                           24. Sep. 1995       15,6 Mio.
+11         115         12             Homer der Auserwählte  ...            8. Jan. 1995                            1. Okt. 1995       20,1 Mio.
+12         116         13             Und Maggie macht drei  ...           22. Jan. 1995                            8. Okt. 1995       17,3 Mio.
+13         117         14                       Barts Komet  ...            5. Feb. 1995                           15. Okt. 1995       18,7 Mio.
+14         118         15                  Homie, der Clown  ...           12. Feb. 1995                           22. Okt. 1995       17,6 Mio.
+15         119         16             Bart gegen Australien  ...           19. Feb. 1995                           29. Okt. 1995       15,1 Mio.
+16         120         17       Homer gegen Patty und Selma  ...           26. Feb. 1995                            5. Nov. 1995       18,9 Mio.
+17         121         18         Springfield Film Festival  ...            5. März 1995                           12. Nov. 1995       14,4 Mio.
+18         122         19                    Lisas Hochzeit  ...           19. März 1995                           19. Nov. 1995       14,4 Mio.
+19         123         20                 25 Windhundwelpen  ...            9. Apr. 1995                           26. Nov. 1995       11,6 Mio.
+20         124         21                  Der Lehrerstreik  ...           16. Apr. 1995                            3. Dez. 1995       11,8 Mio.
+21         125         22               Zu Ehren von Murphy  ...           30. Apr. 1995                           31. Dez. 1995       12,6 Mio.
+22         126         23        Die Springfield Connection  ...             7. Mai 1995                           10. Dez. 1995       12,7 Mio.
+23         127         24              Auf zum Zitronenbaum  ...            14. Mai 1995                           17. Dez. 1995       13,1 Mio.
+24         128         25  Wer erschoss Mr. Burns? – Teil 1  ...            21. Mai 1995                            3. Nov. 1996         15 Mio.
+
+[25 rows x 7 columns]

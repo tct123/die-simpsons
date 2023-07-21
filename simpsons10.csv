@@ -1,36 +1,26 @@
-   Staffel Episoden­anzahl Erstausstrahlung USA                  Deutschsprachige Erstveröffentlichung                    
-   Staffel Episoden­anzahl      Staffelpremiere    Staffelfinale                       Staffelpremiere       Staffelfinale
-0        1              13    17. Dezember 1989     13. Mai 1990                      28. Februar 1991   13. Dezember 1991
-1        2              22     11. Oktober 1990    11. Juli 1991                     20. Dezember 1991       19. Juni 1992
-2        3              24   19. September 1991  27. August 1992                        5. Januar 1993       7. April 1994
-3        4              22   24. September 1992     13. Mai 1993                      16. Februar 1993   31. Dezember 1996
-4        5              22   30. September 1993     19. Mai 1994                       14. August 1994     2. Oktober 1999
-5        6              25    4. September 1994     21. Mai 1995                         15. Juli 1995   27. Dezember 1999
-6        7              25   17. September 1995     19. Mai 1996                      4. November 1996   27. Dezember 1999
-7        8              25     27. Oktober 1996     18. Mai 1997                     5. September 1997    31. Oktober 1998
-8        9              25   21. September 1997     17. Mai 1998                       6. Oktober 1998     16. Januar 2000
-9       10              23      23. August 1998     16. Mai 1999                     15. November 1999   28. Dezember 1999
-10      11              22   26. September 1999     21. Mai 2000                     4. September 2000    12. Februar 2001
-11      12              21     1. November 2000     20. Mai 2001                    24. September 2001    18. Februar 2002
-12      13              22     6. November 2001     22. Mai 2002                       8. Februar 2003        5. Juli 2003
-13      14              22     3. November 2002     18. Mai 2003                       10. Januar 2004        29. Mai 2004
-14      15              22     2. November 2003     23. Mai 2004                      30. Oktober 2004        5. März 2005
-15      16              21     7. November 2004     15. Mai 2005                      29. Oktober 2005    11. Februar 2006
-16      17              22   11. September 2005     21. Mai 2006                     3. September 2006       8. April 2007
-17      18              22   10. September 2006     20. Mai 2007                     9. September 2007     27. Januar 2008
-18      19              20   23. September 2007     18. Mai 2008                       6. Oktober 2008        2. März 2009
-19      20              21   28. September 2008     17. Mai 2009                    15. September 2009      13. April 2010
-20      21              23   27. September 2009     23. Mai 2010                     7. September 2010        17. Mai 2011
-21      22              22   26. September 2010     22. Mai 2011                       30. August 2011       20. März 2012
-22      23              22   25. September 2011     20. Mai 2012                       27. August 2012       18. März 2013
-23      24              22   30. September 2012     19. Mai 2013                       26. August 2013       17. März 2014
-24      25              22   29. September 2013     18. Mai 2014                     1. September 2014       16. März 2015
-25      26              22   28. September 2014     17. Mai 2015                       18. August 2015       15. März 2016
-26      27              22   27. September 2015     22. Mai 2016                       30. August 2016        23. Mai 2017
-27      28              22   25. September 2016     21. Mai 2017                       29. August 2017       13. März 2018
-28      29              21      1. Oktober 2017     20. Mai 2018                       14. August 2018       11. März 2019
-29      30              23   30. September 2018     12. Mai 2019                      28. Oktober 2019       24. März 2020
-30      31              22   29. September 2019     17. Mai 2020                       10. August 2020   27. November 2020
-31      32              22   27. September 2020     23. Mai 2021                       8. Februar 2021  29. September 2021
-32      33              22   26. September 2021     22. Mai 2022                        3. Januar 2022  28. September 2022
-33      34              22   25. September 2022     21. Mai 2023                                   NaN                 NaN
+    Nr. (ges.)  Nr. (St.)  ... Erstaus­strahlung (USA) Deutsch­sprachige Erstaus­strahlung (D)
+0          204          1  ...           23. Aug. 1998                           16. Nov. 1999
+1          205          2  ...           20. Sep. 1998                           15. Nov. 1999
+2          206          3  ...           27. Sep. 1998                           17. Nov. 1999
+3          207          4  ...           25. Okt. 1998                           28. Dez. 1999
+4          208          5  ...            8. Nov. 1998                           18. Nov. 1999
+5          209          6  ...           15. Nov. 1998                           19. Nov. 1999
+6          210          7  ...           22. Nov. 1998                           13. Dez. 1999
+7          211          8  ...            6. Dez. 1998                           22. Nov. 1999
+8          212          9  ...           20. Dez. 1998                           23. Nov. 1999
+9          213         10  ...           10. Jan. 1999                           24. Nov. 1999
+10         214         11  ...           17. Jan. 1999                           25. Nov. 1999
+11         215         12  ...           31. Jan. 1999                           26. Nov. 1999
+12         216         13  ...            7. Feb. 1999                           29. Nov. 1999
+13         217         14  ...           14. Feb. 1999                           30. Nov. 1999
+14         218         15  ...           21. Feb. 1999                            1. Dez. 1999
+15         219         16  ...           28. Feb. 1999                            2. Dez. 1999
+16         220         17  ...           28. März 1999                            3. Dez. 1999
+17         221         18  ...            4. Apr. 1999                            6. Dez. 1999
+18         222         19  ...           11. Apr. 1999                            7. Dez. 1999
+19         223         20  ...           25. Apr. 1999                            8. Dez. 1999
+20         224         21  ...             2. Mai 1999                            9. Dez. 1999
+21         225         22  ...             9. Mai 1999                           10. Dez. 1999
+22         226         23  ...            16. Mai 1999                           14. Dez. 1999
+
+[23 rows x 6 columns]
