@@ -1,24 +1,22 @@
-    Nr. (ges.)  Nr. (St.)  ... Erstaus­strahlung (USA) Deutsch­sprachige Erstaus­strahlung (D)
-0          336          1  ...            7. Nov. 2004                           29. Okt. 2005
-1          337          2  ...           14. Nov. 2004                            3. Sep. 2005
-2          338          3  ...           21. Nov. 2004                           10. Sep. 2005
-3          339          4  ...            5. Dez. 2004                           17. Sep. 2005
-4          340          5  ...           12. Dez. 2004                           24. Sep. 2005
-5          341          6  ...           16. Jan. 2005                            1. Okt. 2005
-6          342          7  ...           30. Jan. 2005                            8. Okt. 2005
-7          343          8  ...            6. Feb. 2005                           15. Okt. 2005
-8          344          9  ...           13. Feb. 2005                            5. Nov. 2005
-9          345         10  ...           20. Feb. 2005                           22. Okt. 2005
-10         346         11  ...            6. März 2005                           19. Nov. 2005
-11         347         12  ...           13. März 2005                           26. Nov. 2005
-12         348         13  ...           20. März 2005                            3. Dez. 2005
-13         349         14  ...            3. Apr. 2005                           10. Dez. 2005
-14         350         15  ...           17. Apr. 2005                           17. Dez. 2005
-15         351         16  ...             1. Mai 2005                           14. Jan. 2006
-16         352         17  ...             1. Mai 2005                            7. Jan. 2006
-17         353         18  ...             8. Mai 2005                           21. Jan. 2006
-18         354         19  ...             8. Mai 2005                           28. Jan. 2006
-19         355         20  ...            15. Mai 2005                            4. Feb. 2006
-20         356         21  ...            15. Mai 2005                           11. Feb. 2006
-
-[21 rows x 6 columns]
+,Nr. (ges.),Nr. (St.),Deutscher Titel,Original­titel,Erstaus­strahlung (USA),Deutsch­sprachige Erstaus­strahlung (D)
+0,336,1,Vier Enthauptungen und ein Todesfall,Treehouse of Horror XV,7. Nov. 2004,29. Okt. 2005
+1,337,2,Die geheime Zutat,All’s Fair in Oven War,14. Nov. 2004,3. Sep. 2005
+2,338,3,Der Feind in meinem Bett,Sleeping with the Enemy,21. Nov. 2004,10. Sep. 2005
+3,339,4,Marges alte Freundin,She Used to Be My Girl,5. Dez. 2004,17. Sep. 2005
+4,340,5,Dicker Mann und kleiner Junge,Fat Man and Little Boy,12. Dez. 2004,24. Sep. 2005
+5,341,6,Nach Kanada der Pillen wegen,Midnight Rx,16. Jan. 2005,1. Okt. 2005
+6,342,7,Moes Taverne,Mommie Beerest,30. Jan. 2005,8. Okt. 2005
+7,343,8,Homer und die Halbzeit-Show,Homer and Ned’s Hail Mary Pass,6. Feb. 2005,15. Okt. 2005
+8,344,9,Pranksta Rap,Pranksta Rap,13. Feb. 2005,5. Nov. 2005
+9,345,10,"Drum prüfe, wer sich ewig bindet",There’s Something About Marrying,20. Feb. 2005,22. Okt. 2005
+10,346,11,Die böse Hexe des Westens,On a Clear Day I Can’t See My Sister,6. März 2005,19. Nov. 2005
+11,347,12,Der lächelnde Buddha,Goo Goo Gai Pan,13. März 2005,26. Nov. 2005
+12,348,13,Homer mobil,Mobile Homer,20. März 2005,3. Dez. 2005
+13,349,14,"Homer, die Ratte",The Seven-Beer Snitch,3. Apr. 2005,10. Dez. 2005
+14,350,15,Future-Drama,Future-Drama,17. Apr. 2005,17. Dez. 2005
+15,351,16,Der eingebildete Dachdecker,Don’t Fear the Roofer,1. Mai 2005,14. Jan. 2006
+16,352,17,Das große Fressen,The Heartbroke Kid,1. Mai 2005,7. Jan. 2006
+17,353,18,Lisa Simpson: Superstar,A Star is Torn,8. Mai 2005,21. Jan. 2006
+18,354,19,Das jüngste Gericht,Thank God It’s Doomsday,8. Mai 2005,28. Jan. 2006
+19,355,20,"Schau heimwärts, Flanders",Home Away From Homer,15. Mai 2005,4. Feb. 2006
+20,356,21,"Der Vater, der Sohn und der heilige Gaststar","The Father, The Son, and The Holy Guest Star",15. Mai 2005,11. Feb. 2006

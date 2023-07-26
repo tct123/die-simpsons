@@ -1,25 +1,23 @@
-    Nr. (ges.)  Nr. (St.)  ... Erstaus­strahlung (USA) Deutsch­sprachige Erstaus­strahlung (D)
-0          357          1  ...           11. Sep. 2005                            3. Sep. 2006
-1          358          2  ...           18. Sep. 2005                           10. Sep. 2006
-2          359          3  ...           25. Sep. 2005                           17. Sep. 2006
-3          360          4  ...            6. Nov. 2005                           29. Okt. 2006
-4          361          5  ...           13. Nov. 2005                           24. Sep. 2006
-5          362          6  ...           20. Nov. 2005                            1. Okt. 2006
-6          363          7  ...           27. Nov. 2005                            8. Okt. 2006
-7          364          8  ...           11. Dez. 2005                           15. Okt. 2006
-8          365          9  ...           18. Dez. 2005                            5. Nov. 2006
-9          366         10  ...            8. Jan. 2006                           22. Okt. 2006
-10         367         11  ...           29. Jan. 2006                           12. Nov. 2006
-11         368         12  ...           26. Feb. 2006                           21. Jan. 2007
-12         369         13  ...           12. März 2006                           28. Jan. 2007
-13         370         14  ...           19. März 2006                            4. Feb. 2007
-14         371         15  ...           26. März 2006                           11. Feb. 2007
-15         372         16  ...            2. Apr. 2006                           18. Feb. 2007
-16         373         17  ...            9. Apr. 2006                           25. Feb. 2007
-17         374         18  ...           23. Apr. 2006                            4. März 2007
-18         375         19  ...           30. Apr. 2006                           11. März 2007
-19         376         20  ...             7. Mai 2006                           25. März 2007
-20         377         21  ...            14. Mai 2006                            1. Apr. 2007
-21         378         22  ...            21. Mai 2006                            8. Apr. 2007
-
-[22 rows x 6 columns]
+,Nr. (ges.),Nr. (St.),Deutscher Titel,Original­titel,Erstaus­strahlung (USA),Deutsch­sprachige Erstaus­strahlung (D)
+0,357,1,Es lebe die Seekuh!,Bonfire of the Manatees,11. Sep. 2005,3. Sep. 2006
+1,358,2,Angst essen Seele auf,The Girl Who Slept Too Little,18. Sep. 2005,10. Sep. 2006
+2,359,3,Milhouse aus Sand und Nebel,Milhouse of Sand and Fog,25. Sep. 2005,17. Sep. 2006
+3,360,4,B.I.: Bartificial Intelligence,Treehouse of Horror XVI,6. Nov. 2005,29. Okt. 2006
+4,361,5,Mamas kleiner Liebling,Marge’s Son Poisoning,13. Nov. 2005,24. Sep. 2006
+5,362,6,Der Sicherheitssalamander,See Homer Run,20. Nov. 2005,1. Okt. 2006
+6,363,7,Marge und der Frauen-Club,The Last of the Red Hat Mamas,27. Nov. 2005,8. Okt. 2006
+7,364,8,Der italienische Bob,The Italian Bob,11. Dez. 2005,15. Okt. 2006
+8,365,9,Simpsons Weihnachtsgeschichten,Simpsons Christmas Stories,18. Dez. 2005,5. Nov. 2006
+9,366,10,Wer ist Homers Vater?,Homer’s Paternity Coot,8. Jan. 2006,22. Okt. 2006
+10,367,11,Straße der Verdammten,We’re on the Road to D’ohwhere,29. Jan. 2006,12. Nov. 2006
+11,368,12,Ein perfekter Gentleman,My Fair Laddy,26. Feb. 2006,21. Jan. 2007
+12,369,13,Die scheinbar unendliche Geschichte,The Seemingly Never-Ending Story,12. März 2006,28. Jan. 2007
+13,370,14,Bart hat zwei Mütter,Bart Has Two Mommies,19. März 2006,4. Feb. 2007
+14,371,15,Frauentausch,"Homer Simpson, This Is Your Wife",26. März 2006,11. Feb. 2007
+15,372,16,Corrida de Toro,Million Dollar Abie,2. Apr. 2006,18. Feb. 2007
+16,373,17,Kiss Kiss Bang Bangalore,"Kiss Kiss, Bang Bangalore",9. Apr. 2006,25. Feb. 2007
+17,374,18,Drei nasse Geschichten,The Wettest Stories Ever Told,23. Apr. 2006,4. März 2007
+18,375,19,Gleichung mit einem Unbekannten,Girls Just Want to Have Sums,30. Apr. 2006,11. März 2007
+19,376,20,Selig sind die Unwissenden,Regarding Margie,7. Mai 2006,25. März 2007
+20,377,21,Gott gegen Lisa Simpson,The Monkey Suit,14. Mai 2006,1. Apr. 2007
+21,378,22,Homerun für die Liebe,Marge and Homer Turn a Couple Play,21. Mai 2006,8. Apr. 2007

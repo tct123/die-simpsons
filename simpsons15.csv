@@ -1,25 +1,23 @@
-    Nr. (ges.)  Nr. (St.)  ... Erstaus­strahlung (USA) Deutsch­sprachige Erstaus­strahlung (D)
-0          314          1  ...            2. Nov. 2003                           30. Okt. 2004
-1          315          2  ...            9. Nov. 2003                           25. Sep. 2004
-2          316          3  ...           16. Nov. 2003                            2. Okt. 2004
-3          317          4  ...           23. Nov. 2003                            9. Okt. 2004
-4          318          5  ...           30. Nov. 2003                           16. Okt. 2004
-5          319          6  ...            7. Dez. 2003                           23. Okt. 2004
-6          320          7  ...           14. Dez. 2003                           18. Dez. 2004
-7          321          8  ...            4. Jan. 2004                            6. Nov. 2004
-8          322          9  ...           11. Jan. 2004                           13. Nov. 2004
-9          323         10  ...           25. Jan. 2004                           20. Nov. 2004
-10         324         11  ...            8. Feb. 2004                           27. Nov. 2004
-11         325         12  ...           15. Feb. 2004                            4. Dez. 2004
-12         326         13  ...           22. Feb. 2004                           11. Dez. 2004
-13         327         14  ...           14. März 2004                            8. Jan. 2005
-14         328         15  ...           21. März 2004                           15. Jan. 2005
-15         329         16  ...           28. März 2004                           22. Jan. 2005
-16         330         17  ...           18. Apr. 2004                           29. Jan. 2005
-17         331         18  ...           25. Apr. 2004                            5. Feb. 2005
-18         332         19  ...             2. Mai 2004                           12. Feb. 2005
-19         333         20  ...             9. Mai 2004                           19. Feb. 2005
-20         334         21  ...            16. Mai 2004                           26. Feb. 2005
-21         335         22  ...            23. Mai 2004                            5. März 2005
-
-[22 rows x 6 columns]
+,Nr. (ges.),Nr. (St.),Deutscher Titel,Original­titel,Erstaus­strahlung (USA),Deutsch­sprachige Erstaus­strahlung (D)
+0,314,1,Todesgrüße aus Springfield,Treehouse of Horror XIV,2. Nov. 2003,30. Okt. 2004
+1,315,2,Wiedersehen nach Jahren,My Mother the Carjacker,9. Nov. 2003,25. Sep. 2004
+2,316,3,Die Perlen-Präsidentin,The President Wore Pearls,16. Nov. 2003,2. Okt. 2004
+3,317,4,Die Queen ist nicht erfreut!,The Regina Monologues,23. Nov. 2003,9. Okt. 2004
+4,318,5,Der Dicke und der Bär,The Fat and the Furriest,30. Nov. 2003,16. Okt. 2004
+5,319,6,Krustys Bar Mitzvah,Today I am A Clown,7. Dez. 2003,23. Okt. 2004
+6,320,7,Eine Simpsons-Weihnachtsgeschichte,’Tis The Fifteenth Season,14. Dez. 2003,18. Dez. 2004
+7,321,8,"Marge gegen Singles, Senioren, kinderlose Paare, Teenager und Schwule","Marge vs. Singles, Seniors, Childless Couples and Teens, and Gays",4. Jan. 2004,6. Nov. 2004
+8,322,9,Häuptling KnockaHomer,"I, D’oh-Bot",11. Jan. 2004,13. Nov. 2004
+9,323,10,Fantasien einer durchgeknallten Hausfrau,Diatribe of a Mad Housewife,25. Jan. 2004,20. Nov. 2004
+10,324,11,Geschichtsstunde mit Marge,Margical History Tour,8. Feb. 2004,27. Nov. 2004
+11,325,12,Milhouse lebt hier nicht mehr,Milhouse Doesn’t Live Here Anymore,15. Feb. 2004,4. Dez. 2004
+12,326,13,Klug & Klüger,Smart and Smarter,22. Feb. 2004,11. Dez. 2004
+13,327,14,"Rat mal, wer zum Essen kommt",The Ziff Who Came to Dinner,14. März 2004,8. Jan. 2005
+14,328,15,Marge im Suff,Co-Dependent’s Day,21. März 2004,15. Jan. 2005
+15,329,16,Die Verurteilten,The Wandering Juvie,28. März 2004,22. Jan. 2005
+16,330,17,Hochzeit auf Klingonisch,My Big Fat Geek Wedding,18. Apr. 2004,29. Jan. 2005
+17,331,18,Auf der Flucht,Catch ’Em If You Can,25. Apr. 2004,5. Feb. 2005
+18,332,19,Der Tortenmann schlägt zurück,Simple Simpson,2. Mai 2004,12. Feb. 2005
+19,333,20,Die erste Liebe,The Way We Weren’t,9. Mai 2004,19. Feb. 2005
+20,334,21,Geächtet,Bart-Mangled Banner,16. Mai 2004,26. Feb. 2005
+21,335,22,Der große Nachrichtenschwindel,Fraudcast News,23. Mai 2004,5. März 2005

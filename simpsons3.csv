@@ -1,27 +1,25 @@
-    Nr. (ges.)  Nr. (St.)                  Deutscher Titel  ... Erstaus­strahlung (USA) Deutsch­sprachige Erstaus­strahlung (D) Zuschauer (USA)
-0           36          1      Die Geburtstagsüberraschung  ...           19. Sep. 1991                            5. Jan. 1993       22,9 Mio.
-1           37          2     Einmal Washington und zurück  ...           26. Sep. 1991                           12. Jan. 1993       20,2 Mio.
-2           38          3           Ein Fluch auf Flanders  ...            3. Okt. 1991                           13. Jan. 1993       22,8 Mio.
-3           39          4      Verbrechen lohnt sich nicht  ...           10. Okt. 1991                            7. Jan. 1993       20,8 Mio.
-4           40          5                    Der Ernstfall  ...           17. Okt. 1991                           14. Jan. 1993       20,6 Mio.
-5           41          6           Der Vater eines Clowns  ...           24. Okt. 1991                           11. Jan. 1993       20,2 Mio.
-6           42          7                        Albträume  ...           31. Okt. 1991                           18. Jan. 1993         20 Mio.
-7           43          8                       Lisas Pony  ...            7. Nov. 1991                           19. Jan. 1993         23 Mio.
-8           44          9           Das Seifenkistenrennen  ...           14. Nov. 1991                           20. Jan. 1993       24,7 Mio.
-9           45         10                Das Erfolgsrezept  ...           21. Nov. 1991                           21. Jan. 1993       23,9 Mio.
-10          46         11           Kraftwerk zu verkaufen  ...            5. Dez. 1991                            4. Feb. 1993       21,1 Mio.
-11          47         12       Blick zurück aufs Eheglück  ...           26. Dez. 1991                           28. Jan. 1993       21,9 Mio.
-12          48         13  Wer anderen einen Brunnen gräbt  ...            9. Jan. 1992                            1. Feb. 1993       24,2 Mio.
-13          49         14                    Der Wettkönig  ...           23. Jan. 1992                           25. Jan. 1993       23,2 Mio.
-14          50         15              Wenn Mutter streikt  ...            6. Feb. 1992                            3. Feb. 1993       23,7 Mio.
-15          51         16               Die Kontaktanzeige  ...           13. Feb. 1992                           26. Jan. 1993       20,5 Mio.
-16          52         17               Der Wunderschläger  ...           20. Feb. 1992                            2. Feb. 1993       24,6 Mio.
-17          53         18                 Der Eignungstest  ...           27. Feb. 1992                           27. Jan. 1993       23,7 Mio.
-18          54         19            Auf den Hund gekommen  ...           12. März 1992                            8. Feb. 1993       23,4 Mio.
-19          55         20                Homer auf Abwegen  ...           26. März 1992                            9. Feb. 1993       25,5 Mio.
-20          56         21   Bis dass der Tod euch scheidet  ...            9. Apr. 1992                           10. Feb. 1993       17,3 Mio.
-21          57         22                  Der Fahrschüler  ...           23. Apr. 1992                           11. Feb. 1993       17,5 Mio.
-22          58         23                Liebe und Intrige  ...             7. Mai 1992                           15. Feb. 1993       19,5 Mio.
-23          59         24         Der vermisste Halbbruder  ...           27. Aug. 1992                            7. Apr. 1994        17,2 Mio
-
-[24 rows x 7 columns]
+,Nr. (ges.),Nr. (St.),Deutscher Titel,Original­titel,Erstaus­strahlung (USA),Deutsch­sprachige Erstaus­strahlung (D),Zuschauer (USA)
+0,36,1,Die Geburtstagsüberraschung,Stark Raving Dad,19. Sep. 1991,5. Jan. 1993,"22,9 Mio."
+1,37,2,Einmal Washington und zurück,Mr. Lisa Goes to Washington,26. Sep. 1991,12. Jan. 1993,"20,2 Mio."
+2,38,3,Ein Fluch auf Flanders,When Flanders Failed,3. Okt. 1991,13. Jan. 1993,"22,8 Mio."
+3,39,4,Verbrechen lohnt sich nicht,Bart the Murderer,10. Okt. 1991,7. Jan. 1993,"20,8 Mio."
+4,40,5,Der Ernstfall,Homer Defined,17. Okt. 1991,14. Jan. 1993,"20,6 Mio."
+5,41,6,Der Vater eines Clowns,"Like Father, Like Clown",24. Okt. 1991,11. Jan. 1993,"20,2 Mio."
+6,42,7,Albträume,Treehouse of Horror II,31. Okt. 1991,18. Jan. 1993,20 Mio.
+7,43,8,Lisas Pony,Lisa’s Pony,7. Nov. 1991,19. Jan. 1993,23 Mio.
+8,44,9,Das Seifenkistenrennen,Saturdays of Thunder,14. Nov. 1991,20. Jan. 1993,"24,7 Mio."
+9,45,10,Das Erfolgsrezept,Flaming Moe’s,21. Nov. 1991,21. Jan. 1993,"23,9 Mio."
+10,46,11,Kraftwerk zu verkaufen,Burns Verkaufen der Kraftwerk,5. Dez. 1991,4. Feb. 1993,"21,1 Mio."
+11,47,12,Blick zurück aufs Eheglück,I Married Marge,26. Dez. 1991,28. Jan. 1993,"21,9 Mio."
+12,48,13,Wer anderen einen Brunnen gräbt,Radio Bart,9. Jan. 1992,1. Feb. 1993,"24,2 Mio."
+13,49,14,Der Wettkönig,Lisa the Greek,23. Jan. 1992,25. Jan. 1993,"23,2 Mio."
+14,50,15,Wenn Mutter streikt,Homer Alone,6. Feb. 1992,3. Feb. 1993,"23,7 Mio."
+15,51,16,Die Kontaktanzeige,Bart the Lover,13. Feb. 1992,26. Jan. 1993,"20,5 Mio."
+16,52,17,Der Wunderschläger,Homer at the Bat,20. Feb. 1992,2. Feb. 1993,"24,6 Mio."
+17,53,18,Der Eignungstest,Separate Vocations,27. Feb. 1992,27. Jan. 1993,"23,7 Mio."
+18,54,19,Auf den Hund gekommen,Dog of Death,12. März 1992,8. Feb. 1993,"23,4 Mio."
+19,55,20,Homer auf Abwegen,Colonel Homer,26. März 1992,9. Feb. 1993,"25,5 Mio."
+20,56,21,Bis dass der Tod euch scheidet,Black Widower,9. Apr. 1992,10. Feb. 1993,"17,3 Mio."
+21,57,22,Der Fahrschüler,The Otto Show,23. Apr. 1992,11. Feb. 1993,"17,5 Mio."
+22,58,23,Liebe und Intrige,Bart’s Friend Falls in Love,7. Mai 1992,15. Feb. 1993,"19,5 Mio."
+23,59,24,Der vermisste Halbbruder,"Brother, Can You Spare Two Dimes?",27. Aug. 1992,7. Apr. 1994,"17,2 Mio"

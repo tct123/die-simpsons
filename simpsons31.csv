@@ -1,25 +1,23 @@
-    Nr. (ges.)  Nr. (St.)                                    Deutscher Titel  ...                                      Drehbuch Prod. Code Zuschauer (USA)[19]
-0          663          1      Der Winter unseres monetarisierten Vergnügens  ...                                      Ryan Koh     YABF19           2,33 Mio.
-1          664          2                                         Der Mentor  ...                                    John Frink     YABF21           5,63 Mio.
-2          665          3                                   San Castellaneta  ...                                 Bill Odenkirk     YABF22           2,13 Mio.
-3          666          4                                        Episode 666  ...                              J. Stewart Burns     YABF18           5,42 Mio.
-4          667          5                                      Gorilla Ahoi!  ...                                      Max Cohn     YABF20           2,02 Mio.
-5          668          6                                       Stammesfehde  ...                                      Ryan Koh     ZABF02           5,00 Mio.
-6          669          7                                       La Pura Vida  ...                                  Brian Kelley     ZABF03           2,08 Mio.
-7          670          8                                Das perfekte Dinner  ...                                    Dan Vebber     YABF17           5,42 Mio.
-8          671          9  Mein Todd, mein Todd, warum hast du mich verla...  ...                   Tim Long & Miranda Thompson     ZABF04           1,99 Mio.
-9          672         10                      Süßer die Glocken nie tingeln  ...                   Jeff Westbrook & John Frink     ZABF01           4,97 Mio.
-10         673         11                                     Bitte lächeln!  ...                     Elisabeth Kiernan Averick     ZABF05           1,81 Mio.
-11         674         12                              Mensch gegen Maschine  ...                              J. Stewart Burns     ZABF06           1,95 Mio.
-12         675         13                                          Frinkcoin  ...                                  Rob LaZebnik     ZABF07           1,84 Mio.
-13         676         14                                        Spoiler Boy  ...                                    Dan Vebber     ZABF08           1,66 Mio.
-14         677         15                                      Bildschirmlos  ...                              J. Stewart Burns     ZABF09           1,63 Mio.
-15         678         16                              Die Bart Verschwörung  ...  Joel H. Cohen & Jeff Westbrook Idee: Al Jean     ZABF11           1,70 Mio.
-16         679         17                                    Highway to Well  ...                                 Carolyn Omine     ZABF10           1,66 Mio.
-17         680         18                                Maggies erste Liebe  ...                       Tom Gammill & Max Pross     YABF13           1,58 Mio.
-18         681         19                             Krieg der Priester (1)  ...                                   Pete Holmes     ZABF12           1,35 Mio.
-19         682         20                             Krieg der Priester (2)  ...                                   Pete Holmes     ZABF13           1,36 Mio.
-20         683         21                                      Erbarmungslos  ...                                 Joel H. Cohen     ZABF14           1,40 Mio.
-21         684         22                                 Der Weg des Hundes  ...                                 Carolyn Omine     ZABF16           1,89 Mio.
-
-[22 rows x 10 columns]
+,Nr. (ges.),Nr. (St.),Deutscher Titel,Original­titel,Erstaus­strahlung USA,Deutsch­sprachige Erst­veröffent­lichung (D),Regie,Drehbuch,Prod. Code,Zuschauer (USA)[19]
+0,663,1,Der Winter unseres monetarisierten Vergnügens,The Winter of Our Monetized Content,29. Sep. 2019,10. Aug. 2020,Bob Anderson,Ryan Koh,YABF19,"2,33 Mio."
+1,664,2,Der Mentor,Go Big or Go Homer,6. Okt. 2019,10. Aug. 2020,Matthew Faughnan,John Frink,YABF21,"5,63 Mio."
+2,665,3,San Castellaneta,The Fat Blue Line,13. Okt. 2019,17. Aug. 2020,Michael Polcino,Bill Odenkirk,YABF22,"2,13 Mio."
+3,666,4,Episode 666,Treehouse of Horror XXX,20. Okt. 2019,17. Aug. 2020,Timothy Bailey,J. Stewart Burns,YABF18,"5,42 Mio."
+4,667,5,Gorilla Ahoi!,Gorillas on the Mast,3. Nov. 2019,24. Aug. 2020,Matthew Nastuk,Max Cohn,YABF20,"2,02 Mio."
+5,668,6,Stammesfehde,Marge the Lumberjill,10. Nov. 2019,24. Aug. 2020,Rob Oliver,Ryan Koh,ZABF02,"5,00 Mio."
+6,669,7,La Pura Vida,Livin La Pura Vida,17. Nov. 2019,12. Okt. 2020,Timothy Bailey,Brian Kelley,ZABF03,"2,08 Mio."
+7,670,8,Das perfekte Dinner,Thanksgiving of Horror,24. Nov. 2019,12. Okt. 2020,Rob Oliver,Dan Vebber,YABF17,"5,42 Mio."
+8,671,9,"Mein Todd, mein Todd, warum hast du mich verlassen?","Todd, Todd, Why Hast Thou Foresaken Me?",1. Dez. 2019,19. Okt. 2020,Chris Clements,Tim Long & Miranda Thompson,ZABF04,"1,99 Mio."
+9,672,10,Süßer die Glocken nie tingeln,"Bobby, It’s Cold Outside",15. Dez. 2019,27. Nov. 2020,Steven Dean Moore,Jeff Westbrook & John Frink,ZABF01,"4,97 Mio."
+10,673,11,Bitte lächeln!,Hail to the Teeth,5. Jan. 2020,19. Okt. 2020,Mark Kirkland,Elisabeth Kiernan Averick,ZABF05,"1,81 Mio."
+11,674,12,Mensch gegen Maschine,The Miseducation of Lisa Simpson,16. Feb. 2020,26. Okt. 2020,Matthew Nastuk,J. Stewart Burns,ZABF06,"1,95 Mio."
+12,675,13,Frinkcoin,Frinkcoin,23. Feb. 2020,26. Okt. 2020,Steven Dean Moore,Rob LaZebnik,ZABF07,"1,84 Mio."
+13,676,14,Spoiler Boy,Bart the Bad Guy,1. März 2020,9. Nov. 2020,Jennifer Moeller,Dan Vebber,ZABF08,"1,66 Mio."
+14,677,15,Bildschirmlos,Screenless,8. März 2020,9. Nov. 2020,Michael Polcino,J. Stewart Burns,ZABF09,"1,63 Mio."
+15,678,16,Die Bart Verschwörung,Better Off Ned,15. März 2020,23. Nov. 2020,Rob Oliver,Joel H. Cohen & Jeff Westbrook Idee: Al Jean,ZABF11,"1,70 Mio."
+16,679,17,Highway to Well,Highway to Well,22. März 2020,23. Nov. 2020,Chris Clements,Carolyn Omine,ZABF10,"1,66 Mio."
+17,680,18,Maggies erste Liebe,The Incredible Lightness of Being a Baby,19. Apr. 2020,27. Nov. 2020,Bob Anderson,Tom Gammill & Max Pross,YABF13,"1,58 Mio."
+18,681,19,Krieg der Priester (1),Warrin’ Priests (Part 1),26. Apr. 2020,27. Nov. 2020,Bob Anderson,Pete Holmes,ZABF12,"1,35 Mio."
+19,682,20,Krieg der Priester (2),Warrin’ Priests (Part 2),3. Mai 2020,27. Nov. 2020,Matthew Nastuk,Pete Holmes,ZABF13,"1,36 Mio."
+20,683,21,Erbarmungslos,The Hateful Eight-Year-Olds,10. Mai 2020,27. Nov. 2020,Jennifer Moeller,Joel H. Cohen,ZABF14,"1,40 Mio."
+21,684,22,Der Weg des Hundes,The Way of the Dog,17. Mai 2020,27. Nov. 2020,Matthew Faughnan,Carolyn Omine,ZABF16,"1,89 Mio."

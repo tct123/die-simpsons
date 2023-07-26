@@ -1,25 +1,23 @@
-    Nr. (ges.)  Nr. (St.)                 Deutscher Titel  ... Deutsch­sprachige Erstaus­strahlung (D)              Regie                        Drehbuch
-0          553          1              Der traurige Clown  ...                           18. Aug. 2015  Steven Dean Moore                   Joel H. Cohen
-1          554          2  Wir kentern alle in einem Boot  ...                           25. Aug. 2015       Chuck Sheetz                  Jeff Westbrook
-2          555          3              Super Franchise Me  ...                            8. Sep. 2015      Mark Kirkland                   Bill Odenkirk
-3          556          4          Hölle, Tod und Geister  ...                           27. Okt. 2015   Matthew Faughnan                Stephanie Gillis
-4          557          5    Fracking, Freude, Eierkuchen  ...                           15. Sep. 2015     Matthew Nastuk              Valentina L. Garza
-5          558          6                      Simpsorama  ...                           22. Sep. 2015       Bob Anderson                J. Stewart Burns
-6          559          7            Fackeln im Sandsturm  ...                           29. Sep. 2015         Rob Oliver  Carolyn Omine & William Wright
-7          560          8                      Covercraft  ...                            6. Okt. 2015  Steven Dean Moore                     Matt Selman
-8          561          9     Der Weingeist der Weihnacht  ...                            3. Nov. 2015      Mark Kirkland                         Al Jean
-9          562         10    Der Mann, der als Dinner kam  ...                           13. Okt. 2015    David Silverman          Al Jean & David Mirkin
-10         563         11              Barts neuer Freund  ...                           20. Okt. 2015       Bob Anderson                     Judd Apatow
-11         564         12   Der Musk, der vom Himmel fiel  ...                            5. Jan. 2016     Matthew Nastuk                   Neil Campbell
-12         565         13              Fett ist fabelhaft  ...                           12. Jan. 2016     Chris Clements                   Michael Price
-13         566         14              Driving Miss Marge  ...                           19. Jan. 2016    Michael Polcino                    Marc Wilmore
-14         567         15         Ein Herz und eine Krone  ...                           26. Jan. 2016     Timothy Bailey                    Brian Kelley
-15         568         16                     Sky-Polizei  ...                            2. Feb. 2016         Rob Oliver                     Matt Selman
-16         569         17              Warten auf Duffman  ...                            9. Feb. 2016  Steven Dean Moore                      John Frink
-17         570         18             Marge will's wissen  ...                           16. Feb. 2016      Mark Kirkland                      John Frink
-18         571         19                      Fight Club  ...                           23. Feb. 2016       Bob Anderson                    Rob LaZebnik
-19         572         20                Air Force Grampa  ...                            1. März 2016     Chris Clements                  Jeff Westbrook
-20         573         21        Das Schweigen der Rowdys  ...                            8. März 2016       Lance Kramer                        Tim Long
-21         574         22            Eins, zwei oder drei  ...                           15. März 2016    Michael Polcino                   Michael Price
-
-[22 rows x 8 columns]
+,Nr. (ges.),Nr. (St.),Deutscher Titel,Original­titel,Erstaus­strahlung USA,Deutsch­sprachige Erstaus­strahlung (D),Regie,Drehbuch
+0,553,1,Der traurige Clown,Clown in the Dumps,28. Sep. 2014,18. Aug. 2015,Steven Dean Moore,Joel H. Cohen
+1,554,2,Wir kentern alle in einem Boot,The Wreck of the Relationship,5. Okt. 2014,25. Aug. 2015,Chuck Sheetz,Jeff Westbrook
+2,555,3,Super Franchise Me,Super Franchise Me,12. Okt. 2014,8. Sep. 2015,Mark Kirkland,Bill Odenkirk
+3,556,4,"Hölle, Tod und Geister",Treehouse of Horror XXV,19. Okt. 2014,27. Okt. 2015,Matthew Faughnan,Stephanie Gillis
+4,557,5,"Fracking, Freude, Eierkuchen",Opposites A-Frack,2. Nov. 2014,15. Sep. 2015,Matthew Nastuk,Valentina L. Garza
+5,558,6,Simpsorama,Simpsorama,9. Nov. 2014,22. Sep. 2015,Bob Anderson,J. Stewart Burns
+6,559,7,Fackeln im Sandsturm,Blazed and Confused,16. Nov. 2014,29. Sep. 2015,Rob Oliver,Carolyn Omine & William Wright
+7,560,8,Covercraft,Covercraft,23. Nov. 2014,6. Okt. 2015,Steven Dean Moore,Matt Selman
+8,561,9,Der Weingeist der Weihnacht,I Won’t Be Home for Christmas,7. Dez. 2014,3. Nov. 2015,Mark Kirkland,Al Jean
+9,562,10,"Der Mann, der als Dinner kam",The Man Who Came To Be Dinner,4. Jan. 2015,13. Okt. 2015,David Silverman,Al Jean & David Mirkin
+10,563,11,Barts neuer Freund,Bart’s New Friend,11. Jan. 2015,20. Okt. 2015,Bob Anderson,Judd Apatow
+11,564,12,"Der Musk, der vom Himmel fiel",The Musk Who Fell to Earth,25. Jan. 2015,5. Jan. 2016,Matthew Nastuk,Neil Campbell
+12,565,13,Fett ist fabelhaft,Walking Big & Tall,8. Feb. 2015,12. Jan. 2016,Chris Clements,Michael Price
+13,566,14,Driving Miss Marge,My Fare Lady,15. Feb. 2015,19. Jan. 2016,Michael Polcino,Marc Wilmore
+14,567,15,Ein Herz und eine Krone,The Princess Guide,1. März 2015,26. Jan. 2016,Timothy Bailey,Brian Kelley
+15,568,16,Sky-Polizei,Sky Police,8. März 2015,2. Feb. 2016,Rob Oliver,Matt Selman
+16,569,17,Warten auf Duffman,Waiting for Duffman,15. März 2015,9. Feb. 2016,Steven Dean Moore,John Frink
+17,570,18,Marge will's wissen,Peeping Mom,19. Apr. 2015,16. Feb. 2016,Mark Kirkland,John Frink
+18,571,19,Fight Club,The Kids Are All Fight,26. Apr. 2015,23. Feb. 2016,Bob Anderson,Rob LaZebnik
+19,572,20,Air Force Grampa,Let’s Go Fly A Coot,3. Mai 2015,1. März 2016,Chris Clements,Jeff Westbrook
+20,573,21,Das Schweigen der Rowdys,Bull-E,10. Mai 2015,8. März 2016,Lance Kramer,Tim Long
+21,574,22,"Eins, zwei oder drei",Mathlete’s Feat,17. Mai 2015,15. März 2016,Michael Polcino,Michael Price

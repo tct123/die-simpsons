@@ -1,24 +1,22 @@
-    Nr. (ges.)  Nr. (St.)  ... Erstaus­strahlung USA Deutsch­sprachige Erstaus­strahlung (D)
-0          421          1  ...         28. Sep. 2008                           15. Sep. 2009
-1          422          2  ...          5. Okt. 2008                           22. Sep. 2009
-2          423          3  ...         19. Okt. 2008                           29. Sep. 2009
-3          424          4  ...          2. Nov. 2008                           27. Okt. 2009
-4          425          5  ...          9. Nov. 2008                            6. Okt. 2009
-5          426          6  ...         16. Nov. 2008                           13. Okt. 2009
-6          427          7  ...         30. Nov. 2008                           20. Okt. 2009
-7          428          8  ...          7. Dez. 2008                            3. Nov. 2009
-8          429          9  ...         25. Jan. 2009                           10. Nov. 2009
-9          430         10  ...         15. Feb. 2009                           17. Nov. 2009
-10         431         11  ...          1. März 2009                           24. Nov. 2009
-11         432         12  ...          8. März 2009                           15. Dez. 2009
-12         433         13  ...         15. März 2009                           22. Dez. 2009
-13         434         14  ...         22. März 2009                           12. Jan. 2010
-14         435         15  ...         29. März 2009                           19. Jan. 2010
-15         436         16  ...          5. Apr. 2009                           26. Jan. 2010
-16         437         17  ...         19. Apr. 2009                           16. März 2010
-17         438         18  ...         26. Apr. 2009                           23. März 2010
-18         439         19  ...           3. Mai 2009                           30. März 2010
-19         440         20  ...          10. Mai 2009                            6. Apr. 2010
-20         441         21  ...          17. Mai 2009                           13. Apr. 2010
-
-[21 rows x 6 columns]
+,Nr. (ges.),Nr. (St.),Deutscher Titel,Original­titel,Erstaus­strahlung USA,Deutsch­sprachige Erstaus­strahlung (D)
+0,421,1,"Kuchen, Kopfgeld und Kautionen","Sex, Pies and Idiot Scrapes",28. Sep. 2008,15. Sep. 2009
+1,422,2,Jäger des verlorenen Handys,Lost Verizon,5. Okt. 2008,22. Sep. 2009
+2,423,3,Gemischtes Doppel,"Double, Double, Boy in Trouble",19. Okt. 2008,29. Sep. 2009
+3,424,4,Der Tod kommt dreimal,Treehouse of Horror XIX,2. Nov. 2008,27. Okt. 2009
+4,425,5,Gefährliche Kurven,Dangerous Curves,9. Nov. 2008,6. Okt. 2009
+5,426,6,Das Kreuz mit den Worträtseln,Homer and Lisa Exchange Cross Words,16. Nov. 2008,13. Okt. 2009
+6,427,7,Bin runterladen,Mypods and Boomsticks,30. Nov. 2008,20. Okt. 2009
+7,428,8,"Ja, diese Biene, die ich meine, die heißt Monty",The Burns and the Bees,7. Dez. 2008,3. Nov. 2009
+8,429,9,Die Chroniken von Equalia,Lisa the Drama Queen,25. Jan. 2009,10. Nov. 2009
+9,430,10,Quatsch mit Soße,"Take My Life, Please",15. Feb. 2009,17. Nov. 2009
+10,431,11,Beim Testen nichts Neues,How the Test Was Won,1. März 2009,24. Nov. 2009
+11,432,12,Liebe deinen Nachbarn,"No Loan Again, Naturally",8. März 2009,15. Dez. 2009
+12,433,13,Auf der Jagd nach dem Juwel von Springfield,Gone Maggie Gone,15. März 2009,22. Dez. 2009
+13,434,14,Im Namen des Großvaters,In the Name of the Grandfather,22. März 2009,12. Jan. 2010
+14,435,15,Hochzeit kommt vor dem Fall,Wedding for Disaster,29. März 2009,19. Jan. 2010
+15,436,16,"Große, kleine Liebe",Eeny Teeny Maya Moe,5. Apr. 2009,26. Jan. 2010
+16,437,17,Verliebt und zugedröhnt,"The Good, the Sad and the Drugly",19. Apr. 2009,16. März 2010
+17,438,18,Der Papa wird’s nicht richten,Father Knows Worst,26. Apr. 2009,23. März 2010
+18,439,19,Auf nach Waverly Hills,Waverly Hills 9-0-2-1-D’Oh,3. Mai 2009,30. März 2010
+19,440,20,Vier Powerfrauen und eine Maniküre,Four Great Women and a Manicure,10. Mai 2009,6. Apr. 2010
+20,441,21,Es war einmal in Homerika,Coming to Homerica,17. Mai 2009,13. Apr. 2010

@@ -1,25 +1,23 @@
-    Nr. (ges.)  Nr. (St.)                                    Deutscher Titel  ...                                  Drehbuch Prod. Code Zuschauer (USA)[20]
-0          685          1                                   Undercover Burns  ...                               David Cryan     ZABF19           4,44 Mio.
-1          686          2                                          Bartigula  ...                          Cesar Mazariegos     ZABF18           1,51 Mio.
-2          687          3                 Kunst ist, wenn man trotzdem lacht  ...                               Dan Greaney     ZABF21           1,36 Mio.
-3          688          4                           Saures oder Zeitschleife  ...                            Julia Prescott     ZABF17           4,93 Mio.
-4          689          5                              Das verflixte 7. Bier  ...  Joel H. Cohen & John Frink Idee: Al Jean     ZABF15           1,74 Mio.
-5          690          6                                       Podcast News  ...                            David X. Cohen     ZABF22           3,50 Mio.
-6          691          7                           Drei gescheiterte Träume  ...                         Danielle Weisberg     QABF02           4,41 Mio.
-7          692          8                      Der lange Weg nach Cincinnati  ...                            Jeff Westbrook     ZABF20           1,63 Mio.
-8          693          9                             Lisa tut es nicht leid  ...                              Nell Scovell     QABF01           1,66 Mio.
-9          694         10                    Sommer-Weihnacht in Springfield  ...                            Jessica Conrad     QABF03           3,92 Mio.
-10         695         11                      Vorwärts in die Vergangenheit  ...                                  Ryan Koh     QABF04           1,89 Mio.
-11         696         12                            Das Tagebuch der Mrs. K  ...                            Jeff Westbrook     QABF05           1,43 Mio.
-12         697         13                                         C.R.E.A.M.  ...                              Brian Kelley     QABF06           1,24 Mio.
-13         698         14                                      Cletus 4 Ever  ...             Jeff Martin & Samantha Martin     QABF07           1,38 Mio.
-14         699         15                        Die Rückkehr der Pizza-Bots  ...                             Michael Price     QABF08           1,43 Mio.
-15         700         16                        Es ist ein Todd entsprungen  ...                              Rob LaZebnik     QABF09           1,28 Mio.
-16         701         17                        Die weiblichen Verdächtigen  ...                          Christine Nangle     QABF10           1,22 Mio.
-17         702         18                                       Burger Kings  ...                              Rob LaZebnik     QABF11           1,24 Mio.
-18         703         19               Panik in den Straßen von Springfield  ...                                  Tim Long     QABF12           1,31 Mio.
-19         704         20                            Die Königin der Staaten  ...                          J. Stewart Burns     QABF14           1,11 Mio.
-20         705         21                              Codename G.R.A.M.P.A.  ...                             Carolyn Omine     QABF13           1,06 Mio.
-21         706         22  Moe Szyslak und das Königreich des Kristallsch...  ...                                Dan Vebber     QABF15           1,02 Mio.
-
-[22 rows x 10 columns]
+,Nr. (ges.),Nr. (St.),Deutscher Titel,Original­titel,Erstaus­strahlung USA,Deutsch­sprachige Erstaus­strahlung (D),Regie,Drehbuch,Prod. Code,Zuschauer (USA)[20]
+0,685,1,Undercover Burns,Undercover Burns,27. Sep. 2020,8. Feb. 2021,Bob Anderson,David Cryan,ZABF19,"4,44 Mio."
+1,686,2,Bartigula,"I, Carumbus",4. Okt. 2020,15. Feb. 2021,Rob Oliver,Cesar Mazariegos,ZABF18,"1,51 Mio."
+2,687,3,"Kunst ist, wenn man trotzdem lacht","Now Museum, Now You Don’t",11. Okt. 2020,22. Feb. 2021,Timothy Bailey,Dan Greaney,ZABF21,"1,36 Mio."
+3,688,4,Saures oder Zeitschleife,Treehouse of Horror XXXI,1. Nov. 2020,29. Sep. 2021,Steven Dean Moore,Julia Prescott,ZABF17,"4,93 Mio."
+4,689,5,Das verflixte 7. Bier,The 7 Beer Itch,8. Nov. 2020,1. März 2021,Michael Polcino,Joel H. Cohen & John Frink Idee: Al Jean,ZABF15,"1,74 Mio."
+5,690,6,Podcast News,Podcast News,15. Nov. 2020,8. März 2021,Matthew Faughnan,David X. Cohen,ZABF22,"3,50 Mio."
+6,691,7,Drei gescheiterte Träume,Three Dreams Denied,22. Nov. 2020,15. März 2021,Steven Dean Moore,Danielle Weisberg,QABF02,"4,41 Mio."
+7,692,8,Der lange Weg nach Cincinnati,The Road to Cincinnati,29. Nov. 2020,22. März 2021,Matthew Nastuk,Jeff Westbrook,ZABF20,"1,63 Mio."
+8,693,9,Lisa tut es nicht leid,Sorry Not Sorry,6. Dez. 2020,29. März 2021,Rob Oliver,Nell Scovell,QABF01,"1,66 Mio."
+9,694,10,Sommer-Weihnacht in Springfield,A Springfield Summer Christmas for Christmas,13. Dez. 2020,3. Mai 2021,Timothy Bailey,Jessica Conrad,QABF03,"3,92 Mio."
+10,695,11,Vorwärts in die Vergangenheit,The Dad-Feelings Limited,3. Jan. 2021,10. Mai 2021,Chris Clements,Ryan Koh,QABF04,"1,89 Mio."
+11,696,12,Das Tagebuch der Mrs. K,Diary Queen,21. Feb. 2021,17. Mai 2021,Matthew Nastuk,Jeff Westbrook,QABF05,"1,43 Mio."
+12,697,13,C.R.E.A.M.,Wad Goals,28. Feb. 2021,29. Sep. 2021,Mike Frank Polcino,Brian Kelley,QABF06,"1,24 Mio."
+13,698,14,Cletus 4 Ever,Yokel Hero,7. März 2021,29. Sep. 2021,Rob Oliver,Jeff Martin & Samantha Martin,QABF07,"1,38 Mio."
+14,699,15,Die Rückkehr der Pizza-Bots,Do PizzaBots Dream of Electric Guitars?,14. März 2021,29. Sep. 2021,Jennifer Moeller,Michael Price,QABF08,"1,43 Mio."
+15,700,16,Es ist ein Todd entsprungen,Manger Things,21. März 2021,29. Sep. 2021,Steven Dean Moore,Rob LaZebnik,QABF09,"1,28 Mio."
+16,701,17,Die weiblichen Verdächtigen,Uncut Femmes,28. März 2021,29. Sep. 2021,Chris Clements,Christine Nangle,QABF10,"1,22 Mio."
+17,702,18,Burger Kings,Burger Kings,11. Apr. 2021,29. Sep. 2021,Lance Kramer,Rob LaZebnik,QABF11,"1,24 Mio."
+18,703,19,Panik in den Straßen von Springfield,Panic on the Streets of Springfield,18. Apr. 2021,29. Sep. 2021,Matthew Nastuk,Tim Long,QABF12,"1,31 Mio."
+19,704,20,Die Königin der Staaten,Mother and Child Reunion,9. Mai 2021,29. Sep. 2021,Jennifer Moeller,J. Stewart Burns,QABF14,"1,11 Mio."
+20,705,21,Codename G.R.A.M.P.A.,The Man from G.R.A.M.P.A.,16. Mai 2021,29. Sep. 2021,Michael Polcino,Carolyn Omine,QABF13,"1,06 Mio."
+21,706,22,Moe Szyslak und das Königreich des Kristallschädels,The Last Barfighter,23. Mai 2021,29. Sep. 2021,Timothy Bailey,Dan Vebber,QABF15,"1,02 Mio."

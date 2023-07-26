@@ -1,23 +1,21 @@
-    Nr. (ges.)  Nr. (St.)  ... Erstaus­strahlung (USA) Deutsch­sprachige Erstaus­strahlung (D)
-0          401          1  ...           23. Sep. 2007                            6. Okt. 2008
-1          402          2  ...           30. Sep. 2007                            6. Okt. 2008
-2          403          3  ...            7. Okt. 2007                           13. Okt. 2008
-3          404          4  ...           14. Okt. 2007                           20. Okt. 2008
-4          405          5  ...            4. Nov. 2007                            3. Nov. 2008
-5          406          6  ...           11. Nov. 2007                           27. Okt. 2008
-6          407          7  ...           18. Nov. 2007                           10. Nov. 2008
-7          408          8  ...           25. Nov. 2007                           17. Nov. 2008
-8          409          9  ...           16. Dez. 2007                            1. Dez. 2008
-9          410         10  ...            6. Jan. 2008                            8. Dez. 2008
-10         411         11  ...           27. Jan. 2008                           15. Dez. 2008
-11         412         12  ...           17. Feb. 2008                            9. Feb. 2009
-12         413         13  ...            2. März 2008                           22. Dez. 2008
-13         414         14  ...            9. März 2008                           12. Jan. 2009
-14         415         15  ...           30. März 2008                           19. Jan. 2009
-15         416         16  ...           13. Apr. 2008                           26. Jan. 2009
-16         417         17  ...           27. Apr. 2008                            2. Feb. 2009
-17         418         18  ...             4. Mai 2008                           16. Feb. 2009
-18         419         19  ...            11. Mai 2008                           23. Feb. 2009
-19         420         20  ...            18. Mai 2008                            2. März 2009
-
-[20 rows x 6 columns]
+,Nr. (ges.),Nr. (St.),Deutscher Titel,Original­titel,Erstaus­strahlung (USA),Deutsch­sprachige Erstaus­strahlung (D)
+0,401,1,Die unglaubliche Reise in einem verrückten Privatflugzeug,He Loves To Fly And He D’oh’s,23. Sep. 2007,6. Okt. 2008
+1,402,2,Homerotti,The Homer of Seville,30. Sep. 2007,6. Okt. 2008
+2,403,3,Abgeschleppt!,Midnight Towboy,7. Okt. 2007,13. Okt. 2008
+3,404,4,"Ich will nicht wissen, warum der gefangene Vogel singt",I Don’t Wanna Know Why the Caged Bird Sings,14. Okt. 2007,20. Okt. 2008
+4,405,5,Nach Hause telefonieren,Treehouse of Horror XVIII,4. Nov. 2007,3. Nov. 2008
+5,406,6,Kleiner Waise Milhouse,Little Orphan Millie,11. Nov. 2007,27. Okt. 2008
+6,407,7,Szenen einer Ehe,Husbands and Knives,18. Nov. 2007,10. Nov. 2008
+7,408,8,Begräbnis für einen Feind,Funeral for a Fiend,25. Nov. 2007,17. Nov. 2008
+8,409,9,Vergiss-Marge-Nicht,Eternal Moonshine of the Simpson Mind,16. Dez. 2007,1. Dez. 2008
+9,410,10,"Hello, Mr. President",E. Pluribus Wiggum,6. Jan. 2008,8. Dez. 2008
+10,411,11,Die wilden 90er,That 90’s Show,27. Jan. 2008,15. Dez. 2008
+11,412,12,Die Liebe in Springfield,"Love, Springfieldian Style",17. Feb. 2008,9. Feb. 2009
+12,413,13,Debarted – Unter Ratten,The Debarted,2. März 2008,22. Dez. 2008
+13,414,14,Bei Absturz Mord,Dial ’N’ for Nerder,9. März 2008,12. Jan. 2009
+14,415,15,Schall und Rauch,Smoke on the Daughter,30. März 2008,19. Jan. 2009
+15,416,16,Die Sünden der Väter,Papa Don’t Leech,13. Apr. 2008,26. Jan. 2009
+16,417,17,Rinderwahn,Apocalypse Cow,27. Apr. 2008,2. Feb. 2009
+17,418,18,Down by Lisa,Any Given Sundance,4. Mai 2008,16. Feb. 2009
+18,419,19,"Lebewohl, Mona",Mona Leaves-a,11. Mai 2008,23. Feb. 2009
+19,420,20,Alles über Lisa,All About Lisa,18. Mai 2008,2. März 2009

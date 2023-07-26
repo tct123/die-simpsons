@@ -1,25 +1,23 @@
-    Nr. (ges.)  Nr. (St.)  ... Erstaus­strahlung (USA) Deutsch­sprachige Erstaus­strahlung (D)
-0          379          1  ...           10. Sep. 2006                            9. Sep. 2007
-1          380          2  ...           17. Sep. 2006                            9. Sep. 2007
-2          381          3  ...           24. Sep. 2006                           16. Sep. 2007
-3          382          4  ...            5. Nov. 2006                           30. Okt. 2007
-4          383          5  ...           12. Nov. 2006                           23. Sep. 2007
-5          384          6  ...           19. Nov. 2006                           30. Sep. 2007
-6          385          7  ...           26. Nov. 2006                            7. Okt. 2007
-7          386          8  ...           10. Dez. 2006                           14. Okt. 2007
-8          387          9  ...           17. Dez. 2006                           23. Dez. 2007
-9          388         10  ...            7. Jan. 2007                           21. Okt. 2007
-10         389         11  ...           28. Jan. 2007                            4. Nov. 2007
-11         390         12  ...           11. Feb. 2007                           11. Nov. 2007
-12         391         13  ...           18. Feb. 2007                           18. Nov. 2007
-13         392         14  ...            4. März 2007                           25. Nov. 2007
-14         393         15  ...           11. März 2007                            2. Dez. 2007
-15         394         16  ...           25. März 2007                            9. Dez. 2007
-16         395         17  ...           22. Apr. 2007                           16. Dez. 2007
-17         396         18  ...           29. Apr. 2007                           30. Dez. 2007
-18         397         19  ...             6. Mai 2007                            6. Jan. 2008
-19         398         20  ...            13. Mai 2007                           13. Jan. 2008
-20         399         21  ...            20. Mai 2007                           20. Jan. 2008
-21         400         22  ...            20. Mai 2007                           27. Jan. 2008
-
-[22 rows x 6 columns]
+,Nr. (ges.),Nr. (St.),Deutscher Titel,Original­titel,Erstaus­strahlung (USA),Deutsch­sprachige Erstaus­strahlung (D)
+0,379,1,"Der Koch, der Mafioso, die Frau und ihr Homer","The Mook, the Chef, the Wife and Her Homer",10. Sep. 2006,9. Sep. 2007
+1,380,2,Jazzy and the Pussycats,Jazzy and the Pussycats,17. Sep. 2006,9. Sep. 2007
+2,381,3,"Homer, hol den Hammer raus","Please Homer, Don’t Hammer ’Em",24. Sep. 2006,16. Sep. 2007
+3,382,4,Krieg der Welten,Treehouse of Horror XVII,5. Nov. 2006,30. Okt. 2007
+4,383,5,G.I. Homer,G.I. D’oh,12. Nov. 2006,23. Sep. 2007
+5,384,6,Das literarische Duett,Moe’N’a Lisa,19. Nov. 2006,30. Sep. 2007
+6,385,7,Kunst am Stiel,Ice Cream of Margie (With the Light Blue Hair),26. Nov. 2006,7. Okt. 2007
+7,386,8,Beste Freunde,The Haw-Hawed Couple,10. Dez. 2006,14. Okt. 2007
+8,387,9,Kill Gil – Vol. 1 & 2,"Kill Gil, Volumes I & II",17. Dez. 2006,23. Dez. 2007
+9,388,10,Der perfekte Sturm,The Wife Aquatic,7. Jan. 2007,21. Okt. 2007
+10,389,11,Rache ist dreimal süß,Revenge is a Dish Best Served Three Times,28. Jan. 2007,4. Nov. 2007
+11,390,12,Mit gespaltener Zunge,Little Big Girl,11. Feb. 2007,11. Nov. 2007
+12,391,13,Springfield wird erwachsen,Springfield Up,18. Feb. 2007,18. Nov. 2007
+13,392,14,Selig sind die Dummen,Yokel Chords,4. März 2007,25. Nov. 2007
+14,393,15,Ein unmögliches Paar,Rome-old and Juli-eh,11. März 2007,2. Dez. 2007
+15,394,16,Homerazzi,Homerazzi,25. März 2007,9. Dez. 2007
+16,395,17,Marge Online,Marge Gamer,22. Apr. 2007,16. Dez. 2007
+17,396,18,Ballverlust,The Boys of Bummer,29. Apr. 2007,30. Dez. 2007
+18,397,19,Brand und Beute,Crook and Ladder,6. Mai 2007,6. Jan. 2008
+19,398,20,Stop! Oder mein Hund schießt,Stop Or My Dog Will Shoot,13. Mai 2007,13. Jan. 2008
+20,399,21,24 Minuten,24 Minutes,20. Mai 2007,20. Jan. 2008
+21,400,22,Das böse Wort,You Kent Always Say What You Want,20. Mai 2007,27. Jan. 2008

@@ -1,28 +1,26 @@
-    Nr. (ges.)  Nr. (St.)  ... Erstaus­strahlung (USA) Deutsch­sprachige Erstaus­strahlung (D)
-0          129          1  ...           17. Sep. 1995                            4. Nov. 1996
-1          130          2  ...           24. Sep. 1995                            5. Nov. 1996
-2          131          3  ...            1. Okt. 1995                            6. Nov. 1996
-3          132          4  ...            8. Okt. 1995                            7. Nov. 1996
-4          133          5  ...           15. Okt. 1995                            8. Nov. 1996
-5          134          6  ...           29. Okt. 1995                           27. Dez. 1999
-6          135          7  ...            5. Nov. 1995                           11. Nov. 1996
-7          136          8  ...           19. Nov. 1995                           12. Nov. 1996
-8          137          9  ...           26. Nov. 1995                           13. Nov. 1996
-9          138         10  ...            3. Dez. 1995                           27. Okt. 1997
-10         139         11  ...           17. Dez. 1995                           14. Nov. 1996
-11         140         12  ...            7. Jan. 1996                           15. Nov. 1996
-12         141         13  ...           14. Jan. 1996                           18. Nov. 1996
-13         142         14  ...            4. Feb. 1996                           19. Nov. 1996
-14         143         15  ...           11. Feb. 1996                           20. Nov. 1996
-15         144         16  ...           18. Feb. 1996                           21. Nov. 1996
-16         145         17  ...           25. Feb. 1996                           22. Nov. 1996
-17         146         18  ...           17. März 1996                           25. Nov. 1996
-18         147         19  ...           24. März 1996                           26. Nov. 1996
-19         148         20  ...           31. März 1996                           27. Nov. 1996
-20         149         21  ...           14. Apr. 1996                           28. Nov. 1996
-21         150         22  ...           28. Apr. 1996                           29. Nov. 1996
-22         151         23  ...             5. Mai 1996                            2. Dez. 1996
-23         152         24  ...            19. Mai 1996                            3. Dez. 1996
-24         153         25  ...            19. Mai 1996                            4. Dez. 1996
-
-[25 rows x 6 columns]
+,Nr. (ges.),Nr. (St.),Deutscher Titel,Original­titel,Erstaus­strahlung (USA),Deutsch­sprachige Erstaus­strahlung (D)
+0,129,1,Wer erschoss Mr. Burns? – Teil 2,Who Shot Mr. Burns? (Part Two),17. Sep. 1995,4. Nov. 1996
+1,130,2,Filmstar wider Willen,Radioactive Man,24. Sep. 1995,5. Nov. 1996
+2,131,3,Bei Simpsons stimmt was nicht!,Home Sweet Homediddly-Dum-Doodily,1. Okt. 1995,6. Nov. 1996
+3,132,4,Bart verkauft seine Seele,Bart Sells His Soul,8. Okt. 1995,7. Nov. 1996
+4,133,5,Lisa als Vegetarierin,Lisa the Vegetarian,15. Okt. 1995,8. Nov. 1996
+5,134,6,Die Panik-Amok-Horror-Show,Treehouse of Horror VI,29. Okt. 1995,27. Dez. 1999
+6,135,7,Der behinderte Homer,King-Size Homer,5. Nov. 1995,11. Nov. 1996
+7,136,8,Wer ist Mona Simpson?,Mother Simpson,19. Nov. 1995,12. Nov. 1996
+8,137,9,Tingeltangel-Bobs Rache,Sideshow Bob’s Last Gleaming,26. Nov. 1995,13. Nov. 1996
+9,138,10,"Die 138. Episode, eine Sondervorstellung",The Simpsons 138th Episode Spectacular,3. Dez. 1995,27. Okt. 1997
+10,139,11,Das schwarze Schaf,Marge Be Not Proud,17. Dez. 1995,14. Nov. 1996
+11,140,12,Homers Bowling-Mannschaft,Team Homer,7. Jan. 1996,15. Nov. 1996
+12,141,13,Die bösen Nachbarn,Two Bad Neighbors,14. Jan. 1996,18. Nov. 1996
+13,142,14,Eine Klasse für sich,Scenes from the Class Struggle in Springfield,4. Feb. 1996,19. Nov. 1996
+14,143,15,Bart ist an allem schuld,Bart the Fink,11. Feb. 1996,20. Nov. 1996
+15,144,16,Das geheime Bekenntnis,Lisa the Iconoclast,18. Feb. 1996,21. Nov. 1996
+16,145,17,Butler bei Burns,Homer the Smithers,25. Feb. 1996,22. Nov. 1996
+17,146,18,Wer erfand Itchy und Scratchy?,The Day the Violence Died,17. März 1996,25. Nov. 1996
+18,147,19,Selma heiratet Hollywoodstar,A Fish Called Selma,24. März 1996,26. Nov. 1996
+19,148,20,Die Reise nach Knoxville,Bart on the Road,31. März 1996,27. Nov. 1996
+20,149,21,22 Kurzfilme über Springfield,22 Short Films About Springfield,14. Apr. 1996,28. Nov. 1996
+21,150,22,Simpson und sein Enkel in „Die Schatzsuche“,Raging Abe Simpson and His Grumbling Grandson in “The Curse of the Flying Hellfish”,28. Apr. 1996,29. Nov. 1996
+22,151,23,Volksabstimmung in Springfield,Much Apu About Nothing,5. Mai 1996,2. Dez. 1996
+23,152,24,Homer auf Tournee,Homerpalooza,19. Mai 1996,3. Dez. 1996
+24,153,25,Ein Sommer für Lisa,Summer of 4 Ft. 2,19. Mai 1996,4. Dez. 1996

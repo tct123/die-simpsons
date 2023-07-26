@@ -1,25 +1,23 @@
-    Nr. (ges.)  Nr. (St.)             Deutscher Titel  ... Erstaus­strahlung (USA) Deutsch­sprachige Erstaus­strahlung (D) Zuschauer (USA)
-0           82          1  Homer und die Sangesbrüder  ...           30. Sep. 1993                           14. Aug. 1994       19,9 Mio.
-1           83          2            Am Kap der Angst  ...            7. Okt. 1993                            2. Okt. 1999         20 Mio.
-2           84          3            Homer an der Uni  ...           14. Okt. 1993                            1. Apr. 1995       18,1 Mio.
-3           85          4               Kampf um Bobo  ...           21. Okt. 1993                            2. Apr. 1995       19,5 Mio.
-4           86          5         Die Fahrt zur Hölle  ...           28. Okt. 1993                            8. Apr. 1995         24 Mio.
-5           87          6     Die rebellischen Weiber  ...            4. Nov. 1993                            9. Apr. 1995       21,7 Mio.
-6           88          7        Bart, das innere Ich  ...           11. Nov. 1993                           15. Apr. 1995       18,7 Mio.
-7           89          8         Auf Wildwasserfahrt  ...           18. Nov. 1993                           16. Apr. 1995       20,1 Mio.
-8           90          9           Homer liebt Mindy  ...            9. Dez. 1993                           22. Apr. 1995       20,6 Mio.
-9           91         10         Vom Teufel besessen  ...           16. Dez. 1993                           23. Apr. 1995       17,9 Mio.
-10          92         11  Die Springfield Bürgerwehr  ...            6. Jan. 1994                           29. Apr. 1995       20,1 Mio.
-11          93         12           Bart wird berühmt  ...            3. Feb. 1994                           30. Apr. 1995         20 Mio.
-12          94         13              Apu, der Inder  ...           10. Feb. 1994                             6. Mai 1995       21,8 Mio.
-13          95         14    Lisa kontra Malibu Stacy  ...           17. Feb. 1994                            13. Mai 1995       20,5 Mio.
-14          96         15     Homer, der Weltraumheld  ...           24. Feb. 1994                            20. Mai 1995       18,2 Mio.
-15          97         16            Homie und Neddie  ...           17. März 1994                            27. Mai 1995         18 Mio.
-16          98         17       Bart gewinnt Elefant!  ...           31. März 1994                            3. Juni 1995         17 Mio.
-17          99         18                  Burns Erbe  ...           14. Apr. 1994                           10. Juni 1995       14,7 Mio.
-18         100         19          Freund oder Feind!  ...           28. Apr. 1994                           17. Juni 1995       19,7 Mio.
-19         101         20              Bart packt aus  ...             5. Mai 1994                           24. Juni 1995       15,5 Mio.
-20         102         21       Liebhaber der Lady B.  ...            12. Mai 1994                            1. Juli 1995       15,1 Mio.
-21         103         22              Ehegeheimnisse  ...            19. Mai 1994                            8. Juli 1995       15,6 Mio.
-
-[22 rows x 7 columns]
+,Nr. (ges.),Nr. (St.),Deutscher Titel,Original­titel,Erstaus­strahlung (USA),Deutsch­sprachige Erstaus­strahlung (D),Zuschauer (USA)
+0,82,1,Homer und die Sangesbrüder,Homer’s Barbershop Quartet,30. Sep. 1993,14. Aug. 1994,"19,9 Mio."
+1,83,2,Am Kap der Angst,Cape Feare,7. Okt. 1993,2. Okt. 1999,20 Mio.
+2,84,3,Homer an der Uni,Homer Goes to College,14. Okt. 1993,1. Apr. 1995,"18,1 Mio."
+3,85,4,Kampf um Bobo,Rosebud,21. Okt. 1993,2. Apr. 1995,"19,5 Mio."
+4,86,5,Die Fahrt zur Hölle,Treehouse of Horror IV,28. Okt. 1993,8. Apr. 1995,24 Mio.
+5,87,6,Die rebellischen Weiber,Marge on the Lam,4. Nov. 1993,9. Apr. 1995,"21,7 Mio."
+6,88,7,"Bart, das innere Ich",Bart’s Inner Child,11. Nov. 1993,15. Apr. 1995,"18,7 Mio."
+7,89,8,Auf Wildwasserfahrt,Boy-Scoutz N the Hood,18. Nov. 1993,16. Apr. 1995,"20,1 Mio."
+8,90,9,Homer liebt Mindy,The Last Temptation of Homer,9. Dez. 1993,22. Apr. 1995,"20,6 Mio."
+9,91,10,Vom Teufel besessen,$pringfield,16. Dez. 1993,23. Apr. 1995,"17,9 Mio."
+10,92,11,Die Springfield Bürgerwehr,Homer the Vigilante,6. Jan. 1994,29. Apr. 1995,"20,1 Mio."
+11,93,12,Bart wird berühmt,Bart Gets Famous,3. Feb. 1994,30. Apr. 1995,20 Mio.
+12,94,13,"Apu, der Inder",Homer and Apu,10. Feb. 1994,6. Mai 1995,"21,8 Mio."
+13,95,14,Lisa kontra Malibu Stacy,Lisa vs. Malibu Stacy,17. Feb. 1994,13. Mai 1995,"20,5 Mio."
+14,96,15,"Homer, der Weltraumheld",Deep Space Homer,24. Feb. 1994,20. Mai 1995,"18,2 Mio."
+15,97,16,Homie und Neddie,Homer Loves Flanders,17. März 1994,27. Mai 1995,18 Mio.
+16,98,17,Bart gewinnt Elefant!,Bart Gets an Elephant,31. März 1994,3. Juni 1995,17 Mio.
+17,99,18,Burns Erbe,Burns’ Heir,14. Apr. 1994,10. Juni 1995,"14,7 Mio."
+18,100,19,Freund oder Feind!,Sweet Seymour Skinner’s Baadasssss Song,28. Apr. 1994,17. Juni 1995,"19,7 Mio."
+19,101,20,Bart packt aus,The Boy Who Knew Too Much,5. Mai 1994,24. Juni 1995,"15,5 Mio."
+20,102,21,Liebhaber der Lady B.,Lady Bouvier’s Lover,12. Mai 1994,1. Juli 1995,"15,1 Mio."
+21,103,22,Ehegeheimnisse,Secrets of a Successful Marriage,19. Mai 1994,8. Juli 1995,"15,6 Mio."

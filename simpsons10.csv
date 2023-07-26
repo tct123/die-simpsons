@@ -1,26 +1,24 @@
-    Nr. (ges.)  Nr. (St.)  ... Erstaus­strahlung (USA) Deutsch­sprachige Erstaus­strahlung (D)
-0          204          1  ...           23. Aug. 1998                           16. Nov. 1999
-1          205          2  ...           20. Sep. 1998                           15. Nov. 1999
-2          206          3  ...           27. Sep. 1998                           17. Nov. 1999
-3          207          4  ...           25. Okt. 1998                           28. Dez. 1999
-4          208          5  ...            8. Nov. 1998                           18. Nov. 1999
-5          209          6  ...           15. Nov. 1998                           19. Nov. 1999
-6          210          7  ...           22. Nov. 1998                           13. Dez. 1999
-7          211          8  ...            6. Dez. 1998                           22. Nov. 1999
-8          212          9  ...           20. Dez. 1998                           23. Nov. 1999
-9          213         10  ...           10. Jan. 1999                           24. Nov. 1999
-10         214         11  ...           17. Jan. 1999                           25. Nov. 1999
-11         215         12  ...           31. Jan. 1999                           26. Nov. 1999
-12         216         13  ...            7. Feb. 1999                           29. Nov. 1999
-13         217         14  ...           14. Feb. 1999                           30. Nov. 1999
-14         218         15  ...           21. Feb. 1999                            1. Dez. 1999
-15         219         16  ...           28. Feb. 1999                            2. Dez. 1999
-16         220         17  ...           28. März 1999                            3. Dez. 1999
-17         221         18  ...            4. Apr. 1999                            6. Dez. 1999
-18         222         19  ...           11. Apr. 1999                            7. Dez. 1999
-19         223         20  ...           25. Apr. 1999                            8. Dez. 1999
-20         224         21  ...             2. Mai 1999                            9. Dez. 1999
-21         225         22  ...             9. Mai 1999                           10. Dez. 1999
-22         226         23  ...            16. Mai 1999                           14. Dez. 1999
-
-[23 rows x 6 columns]
+,Nr. (ges.),Nr. (St.),Deutscher Titel,Original­titel,Erstaus­strahlung (USA),Deutsch­sprachige Erstaus­strahlung (D)
+0,204,1,Ein jeder kriegt sein Fett,Lard of the Dance,23. Aug. 1998,16. Nov. 1999
+1,205,2,Im Schatten des Genies,The Wizard of Evergreen Terrace,20. Sep. 1998,15. Nov. 1999
+2,206,3,Bart brütet etwas aus,Bart the Mother,27. Sep. 1998,17. Nov. 1999
+3,207,4,Das unheimliche Mord-Transplantat,Treehouse of Horror IX,25. Okt. 1998,28. Dez. 1999
+4,208,5,Kennst du berühmte Stars?,When You Dish Upon a Star,8. Nov. 1998,18. Nov. 1999
+5,209,6,Homer ist ein toller Hippie,D’oh-in In the Wind,15. Nov. 1998,19. Nov. 1999
+6,210,7,Die große Betrügerin,Lisa Gets an “A”,22. Nov. 1998,13. Dez. 1999
+7,211,8,Grandpa's Nieren explodieren,Homer Simpson in: “Kidney Trouble”,6. Dez. 1998,22. Nov. 1999
+8,212,9,Der unerschrockene Leibwächter,Mayored to the Mob,20. Dez. 1998,23. Nov. 1999
+9,213,10,Wir fahr’n nach… Vegas,Viva Ned Flanders,10. Jan. 1999,24. Nov. 1999
+10,214,11,Allgemeine Ausgangssperre,Wild Barts Can’t Be Broken,17. Jan. 1999,25. Nov. 1999
+11,215,12,Nur für Spieler und Prominente,"Sunday, Cruddy Sunday",31. Jan. 1999,26. Nov. 1999
+12,216,13,Namen machen Leute,Homer to the Max,7. Feb. 1999,29. Nov. 1999
+13,217,14,Apu und Amor,I'm With Cupid,14. Feb. 1999,30. Nov. 1999
+14,218,15,Marge Simpson im Anmarsch,Marge Simpson in: “Screaming Yellow Honkers”,21. Feb. 1999,1. Dez. 1999
+15,219,16,"Es tut uns Leid, Lisa",Make Room for Lisa,28. Feb. 1999,2. Dez. 1999
+16,220,17,Das Geheimnis der Lastwagenfahrer,Maximum Homerdrive,28. März 1999,3. Dez. 1999
+17,221,18,"Bibelstunde, einmal anders",Simpsons Bible Stories,4. Apr. 1999,6. Dez. 1999
+18,222,19,Überraschung für Springfield,Mom and Pop Art,11. Apr. 1999,7. Dez. 1999
+19,223,20,Seid nett zu alten Leuten,The Old Man and The “C” Student,25. Apr. 1999,8. Dez. 1999
+20,224,21,Burns möchte geliebt werden,Monty Can’t Buy Me Love,2. Mai 1999,9. Dez. 1999
+21,225,22,Die Stadt der primitiven Langweiler,They Saved Lisa's Brain,9. Mai 1999,10. Dez. 1999
+22,226,23,Die japanische Horror-Spiel-Show,Thirty Minutes Over Tokyo,16. Mai 1999,14. Dez. 1999

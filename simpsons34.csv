@@ -1,25 +1,23 @@
-    Nr. (ges.)  Nr. (St.) Deutscher Titel  ...                               Drehbuch Prod. Code Zuschauer (USA)[22]
-0          729          1               –  ...                            Broti Gupta     UABF16           4,15 Mio.
-1          730          2               –  ...                         Jessica Conrad     UABF19           1,46 Mio.
-2          731          3               –  ...                            Dan Greaney     UABF21           3,43 Mio.
-3          732          4               –  ...                         Jessica Conrad     UABF20           1,16 Mio.
-4          733          5               –  ...                       Cesar Mazariegos     UABF17           3,40 Mio.
-5          734          6               –  ...  Carolyn Omine, Ryan Koh & Matt Selman     UABF18           3,95 Mio.
-6          735          7               –  ...                       Christine Nangle     OABF01           4,77 Mio.
-7          736          8               –  ...                             Dan Vebber     UABF22           1,21 Mio.
-8          737          9               –  ...                               Ryan Koh     OABF02           1,53 Mio.
-9          738         10               –  ...                               Ryan Koh     OABF03           1,16 Mio.
-10         739         11               –  ...                          Joel H. Cohen     OABF04           3,42 Mio.
-11         740         12               –  ...                         Jessica Conrad     OABF05           1,02 Mio.
-12         741         13               –  ...                                Al Jean     OABF06           1,37 Mio.
-13         742         14               –  ...                   Loni Steele Sosthand     OABF07           1,18 Mio.
-14         743         15               –  ...                             John Frink     OABF08           0,93 Mio.
-15         744         16               –  ...                          Michael Price     OABF09           0,77 Mio.
-16         745         17               –  ...                         Jeff Westbrook     OABF10           0,86 Mio.
-17         746         18               –  ...                            Broti Gupta     OABF11           1,00 Mio.
-18         747         19               –  ...                       J. Stewart Burns     OABF12           0,89 Mio.
-19         748         20               –  ...                           Brian Kelley     OABF14           0,82 Mio.
-20         749         21               –  ...                         Jeff Westbrook     OABF15           0,77 Mio.
-21         750         22               –  ...                               Tim Long     OABF13           0,87 Mio.
-
-[22 rows x 10 columns]
+,Nr. (ges.),Nr. (St.),Deutscher Titel,Original­titel,Erstaus­strahlung USA,Deutsch­sprachige Erstaus­strahlung (D),Regie,Drehbuch,Prod. Code,Zuschauer (USA)[22]
+0,729,1,–,Habeas Tortoise,25. Sep. 2022,–,Matthew Faughnan,Broti Gupta,UABF16,"4,15 Mio."
+1,730,2,–,One Angry Lisa,2. Okt. 2022,–,Matthew Nastuk,Jessica Conrad,UABF19,"1,46 Mio."
+2,731,3,–,Lisa the Boy Scout,9. Okt. 2022,–,Timothy Bailey,Dan Greaney,UABF21,"3,43 Mio."
+3,732,4,–,The King of Nice,16. Okt. 2022,–,Debbie Bruce Mahan,Jessica Conrad,UABF20,"1,16 Mio."
+4,733,5,–,Not It,23. Okt. 2022,–,Steven Dean Moore,Cesar Mazariegos,UABF17,"3,40 Mio."
+5,734,6,–,Treehouse of Horror XXXIII,30. Okt. 2022,–,Rob Oliver,"Carolyn Omine, Ryan Koh & Matt Selman",UABF18,"3,95 Mio."
+6,735,7,–,From Beer to Paternity,13. Nov. 2022,–,Rob Oliver,Christine Nangle,OABF01,"4,77 Mio."
+7,736,8,–,Step Brother from the Same Planet,20. Nov. 2022,–,Matthew Faughnan,Dan Vebber,UABF22,"1,21 Mio."
+8,737,9,–,When Nelson Met Lisa,27. Nov. 2022,–,Steven Dean Moore,Ryan Koh,OABF02,"1,53 Mio."
+9,738,10,–,Game Done Changed,4. Dez. 2022,–,Timothy Bailey,Ryan Koh,OABF03,"1,16 Mio."
+10,739,11,–,Top Goon,11. Dez. 2022,–,Chris Clements,Joel H. Cohen,OABF04,"3,42 Mio."
+11,740,12,–,My Life as a Vlog,1. Jan. 2023,–,Debbie Mahan,Jessica Conrad,OABF05,"1,02 Mio."
+12,741,13,–,The Many Saints of Springfield,19. Feb. 2023,–,Bob Anderson,Al Jean,OABF06,"1,37 Mio."
+13,742,14,–,Carl Carlson Rides Again,26. Feb. 2023,–,Michael Polcino,Loni Steele Sosthand,OABF07,"1,18 Mio."
+14,743,15,–,Bartless,5. März 2023,–,Rob Oliver,John Frink,OABF08,"0,93 Mio."
+15,744,16,–,Hostile Kirk Place,12. März 2023,–,Steven Dean Moore,Michael Price,OABF09,"0,77 Mio."
+16,745,17,–,Pin Gal,19. März 2023,–,Chris Clements,Jeff Westbrook,OABF10,"0,86 Mio."
+17,746,18,–,Fan-ily Feud,23. Apr. 2023,–,Timothy Bailey,Broti Gupta,OABF11,"1,00 Mio."
+18,747,19,–,Write Off This Episode,30. Apr. 2023,–,Matthew Nastuk,J. Stewart Burns,OABF12,"0,89 Mio."
+19,748,20,–,The Very Hungry Caterpillars,7. Mai 2023,–,Gabriel DeFrancesco,Brian Kelley,OABF14,"0,82 Mio."
+20,749,21,–,Clown V. Board of Education,14. Mai 2023,–,Lance Kramer,Jeff Westbrook,OABF15,"0,77 Mio."
+21,750,22,–,Homer’s Adventure Through the Windshield Glass,21. Mai 2023,–,Bob Anderson,Tim Long,OABF13,"0,87 Mio."

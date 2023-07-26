@@ -1,25 +1,23 @@
-    Nr. (ges.)  Nr. (St.)                          Deutscher Titel  ...                        Drehbuch Prod. Code Zuschauer (USA)[21]
-0          707          1             Millennium-Bug - Das Musical  ...       Elisabeth Kiernan Averick     QABF17           3,48 Mio.
-1          708          2                        Bart ist im Knast  ...                      Nick Dahan     QABF18           1,48 Mio.
-2          709          3                  A Nightmare on Elm Tree  ...                      John Frink     QABF16           3,94 Mio.
-3          710          4                                 Moe-Zart  ...                   Joel H. Cohen     QABF19           1,51 Mio.
-4          711          5                              Bauchgefühl  ...                  Juliet Kaufman     QABF20           1,83 Mio.
-5          712          6              A Serious Flanders (Teil 1)  ...                Cesar Mazariegos     QABF21           3,47 Mio.
-6          713          7              A Serious Flanders (Teil 2)  ...                Cesar Mazariegos     QABF22           1,66 Mio.
-7          714          8  Porträt eines jungen Lakaien in Flammen  ...  Rob LaZebnik & Johnny LaZebnik     UABF01           3,97 Mio.
-8          715          9                                Muttertag  ...                         Al Jean     UABF02           3,61 Mio.
-9          716         10                                 Der Pate  ...       Elisabeth Kiernan Averick     UABF03           3,90 Mio.
-10         717         11                             Football-Mom  ...                    Brian Kelley     UABF05           2,02 Mio.
-11         718         12                                 Survivor  ...                      John Frink     UABF04           1,41 Mio.
-12         719         13                     Boyz N the Highlands  ...                      Dan Vebber     UABF06           1,53 Mio.
-13         720         14                             Das Institut  ...                Christine Nangle     UABF07           1,14 Mio.
-14         721         15                              Bartman One  ...                        Ryan Koh     UABF08           1,04 Mio.
-15         722         16                       Ich bin Smartacus!  ...                   Joel H. Cohen     UABF09           1,10 Mio.
-16         723         17                              Ausgeblutet  ...            Loni Steele Sosthand     UABF10           0,95 Mio.
-17         724         18           Ein kurzer Film über die Liebe  ...                   Carolyn Omine     UABF11           0,97 Mio.
-18         725         19               Es braut sich was zusammen  ...                  Jeff Westbrook     UABF12           1,03 Mio.
-19         726         20                       Marge, das Monster  ...                     Megan Amram     UABF15           0,85 Mio.
-20         727         21                         Fleisch ist Mord  ...                   Michael Price     UABF13           1,00 Mio.
-21         728         22                           Armenhaus-Rock  ...                        Tim Long     UABF14           0,93 Mio.
-
-[22 rows x 10 columns]
+,Nr. (ges.),Nr. (St.),Deutscher Titel,Original­titel,Erstaus­strahlung USA,Deutsch­sprachige Erstaus­strahlung (D),Regie,Drehbuch,Prod. Code,Zuschauer (USA)[21]
+0,707,1,Millennium-Bug - Das Musical,The Star of the Backstage,26. Sep. 2021,3. Jan. 2022,Rob Oliver,Elisabeth Kiernan Averick,QABF17,"3,48 Mio."
+1,708,2,Bart ist im Knast,Bart’s in Jail,3. Okt. 2021,10. Jan. 2022,Steven Dean Moore,Nick Dahan,QABF18,"1,48 Mio."
+2,709,3,A Nightmare on Elm Tree,Treehouse of Horror XXXII,10. Okt. 2021,17. Jan. 2022,Matthew Faughnan,John Frink,QABF16,"3,94 Mio."
+3,710,4,Moe-Zart,The Wayz We Were,17. Okt. 2021,24. Jan. 2022,Matthew Nastuk,Joel H. Cohen,QABF19,"1,51 Mio."
+4,711,5,Bauchgefühl,Lisa's Belly,24. Okt. 2021,31. Jan. 2022,Timothy Bailey,Juliet Kaufman,QABF20,"1,83 Mio."
+5,712,6,A Serious Flanders (Teil 1),A Serious Flanders (Part 1),7. Nov. 2021,7. Feb. 2022,Debbie Mahan,Cesar Mazariegos,QABF21,"3,47 Mio."
+6,713,7,A Serious Flanders (Teil 2),A Serious Flanders (Part 2),14. Nov. 2021,14. Feb. 2022,Matthew Faughnan,Cesar Mazariegos,QABF22,"1,66 Mio."
+7,714,8,Porträt eines jungen Lakaien in Flammen,Portrait of a Lackey on Fire,21. Nov. 2021,21. Feb. 2022,Steven Dean Moore,Rob LaZebnik & Johnny LaZebnik,UABF01,"3,97 Mio."
+8,715,9,Muttertag,Mothers and Other Strangers,28. Nov. 2021,28. Feb. 2022,Rob Oliver,Al Jean,UABF02,"3,61 Mio."
+9,716,10,Der Pate,A Made Maggie,19. Dez. 2021,7. März 2022,Timothy Bailey,Elisabeth Kiernan Averick,UABF03,"3,90 Mio."
+10,717,11,Football-Mom,The Longest Marge,2. Jan. 2022,14. März 2022,Matthew Nastuk,Brian Kelley,UABF05,"2,02 Mio."
+11,718,12,Survivor,Pixelated and Afraid,27. Feb. 2022,28. Sep. 2022,Chris Clements,John Frink,UABF04,"1,41 Mio."
+12,719,13,Boyz N the Highlands,Boyz N the Highlands,6. März 2022,28. Sep. 2022,Bob Anderson,Dan Vebber,UABF06,"1,53 Mio."
+13,720,14,Das Institut,You Won't Believe What This Episode is About - Act Three Will Shock You!,13. März 2022,28. Sep. 2022,Jennifer Moeller,Christine Nangle,UABF07,"1,14 Mio."
+14,721,15,Bartman One,Bart the Cool Kid,20. März 2022,28. Sep. 2022,Steven Dean Moore,Ryan Koh,UABF08,"1,04 Mio."
+15,722,16,Ich bin Smartacus!,Pretty Whittle Liar,27. März 2022,28. Sep. 2022,Mike Frank Polcino,Joel H. Cohen,UABF09,"1,10 Mio."
+16,723,17,Ausgeblutet,The Sound of Bleeding Gums,10. Apr. 2022,28. Sep. 2022,Chris Clements,Loni Steele Sosthand,UABF10,"0,95 Mio."
+17,724,18,Ein kurzer Film über die Liebe,My Octopus and a Teacher,24. Apr. 2022,28. Sep. 2022,Rob Oliver,Carolyn Omine,UABF11,"0,97 Mio."
+18,725,19,Es braut sich was zusammen,Girls Just Shauna Have Fun,1. Mai 2022,28. Sep. 2022,Matthew Nastuk,Jeff Westbrook,UABF12,"1,03 Mio."
+19,726,20,"Marge, das Monster",Marge the Meanie,8. Mai 2022,28. Sep. 2022,Timothy Bailey,Megan Amram,UABF15,"0,85 Mio."
+20,727,21,Fleisch ist Mord,Meat Is Murder,15. Mai 2022,28. Sep. 2022,Bob Anderson,Michael Price,UABF13,"1,00 Mio."
+21,728,22,Armenhaus-Rock,Poorhouse Rock,22. Mai 2022,28. Sep. 2022,Jennifer Moeller,Tim Long,UABF14,"0,93 Mio."

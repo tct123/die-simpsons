@@ -1,25 +1,23 @@
-    Nr. (ges.)  Nr. (St.)  ... Erstaus­strahlung (USA) Deutsch­sprachige Erstaus­strahlung (D)
-0          487          1  ...           25. Sep. 2011                           27. Aug. 2012
-1          488          2  ...            2. Okt. 2011                           27. Aug. 2012
-2          489          3  ...           30. Okt. 2011                           29. Okt. 2012
-3          490          4  ...            6. Nov. 2011                            3. Sep. 2012
-4          491          5  ...           13. Nov. 2011                           10. Sep. 2012
-5          492          6  ...           20. Nov. 2011                           17. Sep. 2012
-6          493          7  ...           27. Nov. 2011                           24. Sep. 2012
-7          494          8  ...            4. Dez. 2011                            1. Okt. 2012
-8          495          9  ...           11. Dez. 2011                           15. Okt. 2012
-9          496         10  ...            8. Jan. 2012                            8. Okt. 2012
-10         497         11  ...           15. Jan. 2012                            5. Nov. 2012
-11         498         12  ...           29. Jan. 2012                           22. Okt. 2012
-12         499         13  ...           12. Feb. 2012                           21. Jan. 2013
-13         500         14  ...           19. Feb. 2012                           28. Jan. 2013
-14         501         15  ...            4. März 2012                            4. Feb. 2013
-15         502         16  ...           11. März 2012                           11. Feb. 2013
-16         503         17  ...           18. März 2012                           18. Feb. 2013
-17         504         18  ...           15. Apr. 2012                           25. Feb. 2013
-18         505         19  ...           29. Apr. 2012                           25. Feb. 2013
-19         506         20  ...             6. Mai 2012                            4. März 2013
-20         507         21  ...            13. Mai 2012                           18. März 2013
-21         508         22  ...            20. Mai 2012                           11. März 2013
-
-[22 rows x 6 columns]
+,Nr. (ges.),Nr. (St.),Deutscher Titel,Original­titel,Erstaus­strahlung (USA),Deutsch­sprachige Erstaus­strahlung (D)
+0,487,1,Homer Impossible,The Falcon and the D’Ohman,25. Sep. 2011,27. Aug. 2012
+1,488,2,Teddy-Power,Bart Stops to Smell the Roosevelts,2. Okt. 2011,27. Aug. 2012
+2,489,3,Spider-Killer-Avatar-Man,Treehouse of Horror XXII,30. Okt. 2011,29. Okt. 2012
+3,490,4,"Das Ding, das aus Ohio kam",Replaceable You,6. Nov. 2011,3. Sep. 2012
+4,491,5,FoodFellas,The Food Wife,13. Nov. 2011,10. Sep. 2012
+5,492,6,Homers Sieben,The Book Job,20. Nov. 2011,17. Sep. 2012
+6,493,7,Der Mann im blauen Flanell,The Man in the Blue Flannel Pants,27. Nov. 2011,24. Sep. 2012
+7,494,8,Agentin mit Schmerz,The Ten-Per-Cent Solution,4. Dez. 2011,1. Okt. 2012
+8,495,9,Weihnachten – Die nächste Generation,Holidays of Future Passed,11. Dez. 2011,15. Okt. 2012
+9,496,10,Im Rausch der Macht,"Politically Inept, With Homer Simpson",8. Jan. 2012,8. Okt. 2012
+10,497,11,Freundschaftsanfrage von Lisa,The D’Oh-cial Network,15. Jan. 2012,5. Nov. 2012
+11,498,12,"Der Stoff, aus dem die Träume sind",Moe Goes From Rags To Riches,29. Jan. 2012,22. Okt. 2012
+12,499,13,Unter dem Maulbeerbaum,The Daughter Also Rises,12. Feb. 2012,21. Jan. 2013
+13,500,14,Fern der Heimat,At Long Last Leave,19. Feb. 2012,28. Jan. 2013
+14,501,15,El Barto,Exit Through the Kwik-E-Mart,4. März 2012,4. Feb. 2013
+15,502,16,How I Wet Your Mother,How I Wet Your Mother,11. März 2012,11. Feb. 2013
+16,503,17,"Mein Freund, der Roboter","Them, Robot",18. März 2012,18. Feb. 2013
+17,504,18,Gestrandet,Beware My Cheating Bart,15. Apr. 2012,25. Feb. 2013
+18,505,19,Im Zeichen der Kreuzfahrt,A Totally Fun Thing That Bart Will Never Do Again,29. Apr. 2012,25. Feb. 2013
+19,506,20,"Der Spion, der mich anlernte",The Spy Who Learned Me,6. Mai 2012,4. März 2013
+20,507,21,Schlaflos mit Nedna,Ned ’N Edna’s Blend,13. Mai 2012,18. März 2013
+21,508,22,Lisa wird gaga,Lisa Goes Gaga,20. Mai 2012,11. März 2013

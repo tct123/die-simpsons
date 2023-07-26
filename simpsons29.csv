@@ -1,24 +1,22 @@
-    Nr. (ges.)  Nr. (St.)  ...              Regie                                  Drehbuch
-0          619          1  ...         Rob Oliver                              Brian Kelley
-1          620          2  ...   Matthew Faughnan               Tim Long & Miranda Thompson
-2          621          3  ...   Matthew Faughnan                   Tom Gammill & Max Pross
-3          622          4  ...     Timothy Bailey                                John Frink
-4          623          5  ...       Bob Anderson                             Bill Odenkirk
-5          624          6  ...     Matthew Nastuk                   Tom Gammill & Max Pross
-6          625          7  ...    Michael Polcino                                  Ryan Koh
-7          626          8  ...  Steven Dean Moore                                   Al Jean
-8          627          9  ...         Rob Oliver                                John Frink
-9          628         10  ...       Bob Anderson               Tim Long & Miranda Thompson
-10         629         11  ...     Chris Clements                                Dan Vebber
-11         630         12  ...     Timothy Bailey                              Kevin Curran
-12         631         13  ...     Matthew Nastuk                   Tom Gammill & Max Pross
-13         632         14  ...  Steven Dean Moore                             Michael Price
-14         633         15  ...      Mark Kirkland                            Jeff Westbrook
-15         634         16  ...     Chris Clements              Daniel Furlong & Zach Posner
-16         635         17  ...       Bob Anderson            David Silverman & Brian Kelley
-17         636         18  ...         Rob Oliver                             Bill Odenkirk
-18         637         19  ...       Lance Kramer  Joel H. Cohen & John Frink Idee: Al Jean
-19         638         20  ...    Michael Polcino                              Rob LaZebnik
-20         639         21  ...     Matthew Nastuk                          J. Stewart Burns
-
-[21 rows x 8 columns]
+,Nr. (ges.),Nr. (St.),Deutscher Titel,Original­titel,Erstaus­strahlung USA,Deutsch­sprachige Erstaus­strahlung (D/A),Regie,Drehbuch
+0,619,1,Die Sklavsons,The Serfsons,1. Okt. 2017,14. Aug. 2018,Rob Oliver,Brian Kelley
+1,620,2,Sad Girl,Springfield Splendor,8. Okt. 2017,21. Aug. 2018,Matthew Faughnan,Tim Long & Miranda Thompson
+2,621,3,Talent mit Pfiff,Whistler’s Father,15. Okt. 2017,28. Aug. 2018,Matthew Faughnan,Tom Gammill & Max Pross
+3,622,4,Der Exorzismus von Maggie Simpson,Treehouse of Horror XXVIII,22. Okt. 2017,30. Okt. 2018,Timothy Bailey,John Frink
+4,623,5,Grampa ist ganz Ohr,Grampy Can Ya Hear Me,5. Nov. 2017,4. Sep. 2018,Bob Anderson,Bill Odenkirk
+5,624,6,Blau im Amt,The Old Blue Mayor She Ain’t What She Used to Be,12. Nov. 2017,11. Sep. 2018,Matthew Nastuk,Tom Gammill & Max Pross
+6,625,7,Die Pin Pals,Singin’ in the Lane,19. Nov. 2017,18. Sep. 2018,Michael Polcino,Ryan Koh
+7,626,8,Lisa legt los,Mr. Lisa’s Opus,3. Dez. 2017,25. Sep. 2018,Steven Dean Moore,Al Jean
+8,627,9,Gone Boy,Gone Boy,10. Dez. 2017,2. Okt. 2018,Rob Oliver,John Frink
+9,628,10,Ha-Ha Land,Haw-Haw Land,7. Jan. 2018,9. Okt. 2018,Bob Anderson,Tim Long & Miranda Thompson
+10,629,11,Arche Monty,Frink Gets Testy,14. Jan. 2018,16. Okt. 2018,Chris Clements,Dan Vebber
+11,630,12,Manacek,Homer is Where The Art Isn’t,18. März 2018,23. Okt. 2018,Timothy Bailey,Kevin Curran
+12,631,13,"Doppeltes Einkommen, kinderlos",3 Scenes Plus a Tag from a Marriage,25. März 2018,6. Nov. 2018,Matthew Nastuk,Tom Gammill & Max Pross
+13,632,14,Krusty macht ernst,Fears of a Clown,1. Apr. 2018,13. Nov. 2018,Steven Dean Moore,Michael Price
+14,633,15,Politisch unkorrekt,No Good Read Goes Unpunished,8. Apr. 2018,20. Nov. 2018,Mark Kirkland,Jeff Westbrook
+15,634,16,Der Matratzenkönig,King Leer,15. Apr. 2018,14. Jan. 2019,Chris Clements,Daniel Furlong & Zach Posner
+16,635,17,Lisa hat den Blues,Lisa Gets the Blues,22. Apr. 2018,21. Jan. 2019,Bob Anderson,David Silverman & Brian Kelley
+17,636,18,Rezeptfrei,Forgive and Regret,29. Apr. 2018,28. Jan. 2019,Rob Oliver,Bill Odenkirk
+18,637,19,Links liegen gelassen,Left Behind,6. Mai 2018,18. Feb. 2019,Lance Kramer,Joel H. Cohen & John Frink Idee: Al Jean
+19,638,20,Dänisches Krankenlager,Throw Grampa from the Dane,13. Mai 2018,4. März 2019,Michael Polcino,Rob LaZebnik
+20,639,21,Der Tod steht ihm gut,Flanders’ Ladder,20. Mai 2018,11. März 2019,Matthew Nastuk,J. Stewart Burns

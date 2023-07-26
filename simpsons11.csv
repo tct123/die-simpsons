@@ -1,25 +1,23 @@
-    Nr. (ges.)  Nr. (St.)  ... Erstaus­strahlung (USA) Deutsch­sprachige Erstaus­strahlung (D)
-0          227          1  ...           26. Sep. 1999                            4. Sep. 2000
-1          228          2  ...            3. Okt. 1999                           11. Sep. 2000
-2          229          3  ...           24. Okt. 1999                           18. Sep. 2000
-3          230          4  ...           31. Okt. 1999                           30. Okt. 2000
-4          231          5  ...            7. Nov. 1999                           25. Sep. 2000
-5          232          6  ...           14. Nov. 1999                            2. Okt. 2000
-6          233          7  ...           21. Nov. 1999                            9. Okt. 2000
-7          234          8  ...           28. Nov. 1999                           16. Okt. 2000
-8          235          9  ...           19. Dez. 1999                           18. Dez. 2000
-9          236         10  ...            9. Jan. 2000                           23. Okt. 2000
-10         237         11  ...           16. Jan. 2000                            6. Nov. 2000
-11         238         12  ...           23. Jan. 2000                           13. Nov. 2000
-12         239         13  ...            6. Feb. 2000                           20. Nov. 2000
-13         240         14  ...           13. Feb. 2000                           27. Nov. 2000
-14         241         15  ...           20. Feb. 2000                            4. Dez. 2000
-15         242         16  ...           27. Feb. 2000                           11. Dez. 2000
-16         243         17  ...           19. März 2000                            8. Jan. 2001
-17         244         18  ...            9. Apr. 2000                           15. Jan. 2001
-18         245         19  ...           30. Apr. 2000                           29. Jan. 2001
-19         246         20  ...             7. Mai 2000                           22. Jan. 2001
-20         247         21  ...            14. Mai 2000                            5. Feb. 2001
-21         248         22  ...            21. Mai 2000                           12. Feb. 2001
-
-[22 rows x 6 columns]
+,Nr. (ges.),Nr. (St.),Deutscher Titel,Original­titel,Erstaus­strahlung (USA),Deutsch­sprachige Erstaus­strahlung (D)
+0,227,1,Mit Mel Gibson in Hollywood,Beyond Blunderdome,26. Sep. 1999,4. Sep. 2000
+1,228,2,"Ist alles hin, nimm Focusin!",Brother’s Little Helper,3. Okt. 1999,11. Sep. 2000
+2,229,3,Homer als Restaurantkritiker,Guess Who’s Coming to Criticize Dinner?,24. Okt. 1999,18. Sep. 2000
+3,230,4,"Ich weiß, was du getudel-tan hast",Treehouse of Horror X,31. Okt. 1999,30. Okt. 2000
+4,231,5,Duell bei Sonnenaufgang,E-I-E-I-(Annoyed Grunt),7. Nov. 1999,25. Sep. 2000
+5,232,6,Die Kurzzeit-Berühmtheit,"Hello Gutter, Hello Fadder",14. Nov. 1999,2. Okt. 2000
+6,233,7,Schon mal an Kinder gedacht?,Eight Misbehavin’,21. Nov. 1999,9. Okt. 2000
+7,234,8,Der Kampf um Marge,"Take My Wife, Sleaze",28. Nov. 1999,16. Okt. 2000
+8,235,9,Die böse Puppe Lustikus,Grift of the Magi,19. Dez. 1999,18. Dez. 2000
+9,236,10,Lisa und ihre Jungs,Little Big Mom,9. Jan. 2000,23. Okt. 2000
+10,237,11,Bart hat die Kraft,Faith Off,16. Jan. 2000,6. Nov. 2000
+11,238,12,Wenn ich einmal reich wär,The Mansion Family,23. Jan. 2000,13. Nov. 2000
+12,239,13,Ein Pferd für die Familie,Saddlesore Galactica,6. Feb. 2000,20. Nov. 2000
+13,240,14,Ned Flanders: Wieder allein,"Alone Again, Natura-Diddily",13. Feb. 2000,27. Nov. 2000
+14,241,15,Der beste Missionar aller Zeiten,Missionary: Impossible,20. Feb. 2000,4. Dez. 2000
+15,242,16,Moe mit den zwei Gesichtern,Pygmoelian,27. Feb. 2000,11. Dez. 2000
+16,243,17,Barts Blick in die Zukunft,Bart to the Future,19. März 2000,8. Jan. 2001
+17,244,18,Barneys Hubschrauber-Flugstunde,Days of Wine and D’oh’ses,9. Apr. 2000,15. Jan. 2001
+18,245,19,Kill den Alligator und dann…,Kill the Alligator and Run,30. Apr. 2000,29. Jan. 2001
+19,246,20,Sie wollte schon immer Tänzerin werden,Last Tap Dance in Springfield,7. Mai 2000,22. Jan. 2001
+20,247,21,Wird Marge verrückt gemacht?,"It’s A Mad, Mad, Mad, Mad Marge",14. Mai 2000,5. Feb. 2001
+21,248,22,Hinter den Lachern,Behind the Laughter,21. Mai 2000,12. Feb. 2001

@@ -1,28 +1,26 @@
-    Nr. (ges.)  Nr. (St.)                   Deutscher Titel  ... Erstaus­strahlung (USA) Deutsch­sprachige Erstaus­strahlung (D) Zuschauer (USA)
-0          104          1            Ein grausiger Verdacht  ...            4. Sep. 1994                           15. Juli 1995       15,1 Mio.
-1          105          2                     Lisas Rivalin  ...           11. Sep. 1994                           22. Juli 1995       16,7 Mio.
-2          106          3              Romantik ist überall  ...           25. Sep. 1994                           29. Juli 1995       13,5 Mio.
-3          107          4   Der unheimliche Vergnügungspark  ...            2. Okt. 1994                            5. Aug. 1995       14,8 Mio.
-4          108          5                  Tingeltangel-Bob  ...            9. Okt. 1994                           12. Aug. 1995       14,4 Mio.
-5          109          6       Furcht und Grauen ohne Ende  ...           30. Okt. 1994                           27. Dez. 1999       22,2 Mio.
-6          110          7                    Barts Freundin  ...            6. Nov. 1994                           19. Aug. 1995       15,3 Mio.
-7          111          8                 Lisa auf dem Eise  ...           13. Nov. 1994                            3. Sep. 1995       17,9 Mio.
-8          112          9    Die Babysitterin und das Biest  ...           27. Nov. 1994                           10. Sep. 1995         17 Mio.
-9          113         10  Grandpa gegen sexuelles Versagen  ...            4. Dez. 1994                           17. Sep. 1995       14,1 Mio.
-10         114         11                Angst vorm Fliegen  ...           18. Dez. 1994                           24. Sep. 1995       15,6 Mio.
-11         115         12             Homer der Auserwählte  ...            8. Jan. 1995                            1. Okt. 1995       20,1 Mio.
-12         116         13             Und Maggie macht drei  ...           22. Jan. 1995                            8. Okt. 1995       17,3 Mio.
-13         117         14                       Barts Komet  ...            5. Feb. 1995                           15. Okt. 1995       18,7 Mio.
-14         118         15                  Homie, der Clown  ...           12. Feb. 1995                           22. Okt. 1995       17,6 Mio.
-15         119         16             Bart gegen Australien  ...           19. Feb. 1995                           29. Okt. 1995       15,1 Mio.
-16         120         17       Homer gegen Patty und Selma  ...           26. Feb. 1995                            5. Nov. 1995       18,9 Mio.
-17         121         18         Springfield Film Festival  ...            5. März 1995                           12. Nov. 1995       14,4 Mio.
-18         122         19                    Lisas Hochzeit  ...           19. März 1995                           19. Nov. 1995       14,4 Mio.
-19         123         20                 25 Windhundwelpen  ...            9. Apr. 1995                           26. Nov. 1995       11,6 Mio.
-20         124         21                  Der Lehrerstreik  ...           16. Apr. 1995                            3. Dez. 1995       11,8 Mio.
-21         125         22               Zu Ehren von Murphy  ...           30. Apr. 1995                           31. Dez. 1995       12,6 Mio.
-22         126         23        Die Springfield Connection  ...             7. Mai 1995                           10. Dez. 1995       12,7 Mio.
-23         127         24              Auf zum Zitronenbaum  ...            14. Mai 1995                           17. Dez. 1995       13,1 Mio.
-24         128         25  Wer erschoss Mr. Burns? – Teil 1  ...            21. Mai 1995                            3. Nov. 1996         15 Mio.
-
-[25 rows x 7 columns]
+,Nr. (ges.),Nr. (St.),Deutscher Titel,Original­titel,Erstaus­strahlung (USA),Deutsch­sprachige Erstaus­strahlung (D),Zuschauer (USA)
+0,104,1,Ein grausiger Verdacht,Bart of Darkness,4. Sep. 1994,15. Juli 1995,"15,1 Mio."
+1,105,2,Lisas Rivalin,Lisa’s Rival,11. Sep. 1994,22. Juli 1995,"16,7 Mio."
+2,106,3,Romantik ist überall,Another Simpsons Clip Show,25. Sep. 1994,29. Juli 1995,"13,5 Mio."
+3,107,4,Der unheimliche Vergnügungspark,Itchy & Scratchy Land,2. Okt. 1994,5. Aug. 1995,"14,8 Mio."
+4,108,5,Tingeltangel-Bob,Sideshow Bob Roberts,9. Okt. 1994,12. Aug. 1995,"14,4 Mio."
+5,109,6,Furcht und Grauen ohne Ende,Treehouse of Horror V,30. Okt. 1994,27. Dez. 1999,"22,2 Mio."
+6,110,7,Barts Freundin,Bart’s Girlfriend,6. Nov. 1994,19. Aug. 1995,"15,3 Mio."
+7,111,8,Lisa auf dem Eise,Lisa on Ice,13. Nov. 1994,3. Sep. 1995,"17,9 Mio."
+8,112,9,Die Babysitterin und das Biest,Homer Badman,27. Nov. 1994,10. Sep. 1995,17 Mio.
+9,113,10,Grandpa gegen sexuelles Versagen,Grampa vs. Sexual Inadequacy,4. Dez. 1994,17. Sep. 1995,"14,1 Mio."
+10,114,11,Angst vorm Fliegen,Fear of Flying,18. Dez. 1994,24. Sep. 1995,"15,6 Mio."
+11,115,12,Homer der Auserwählte,Homer the Great,8. Jan. 1995,1. Okt. 1995,"20,1 Mio."
+12,116,13,Und Maggie macht drei,And Maggie Makes Three,22. Jan. 1995,8. Okt. 1995,"17,3 Mio."
+13,117,14,Barts Komet,Bart’s Comet,5. Feb. 1995,15. Okt. 1995,"18,7 Mio."
+14,118,15,"Homie, der Clown",Homie the Clown,12. Feb. 1995,22. Okt. 1995,"17,6 Mio."
+15,119,16,Bart gegen Australien,Bart vs. Australia,19. Feb. 1995,29. Okt. 1995,"15,1 Mio."
+16,120,17,Homer gegen Patty und Selma,Homer vs. Patty and Selma,26. Feb. 1995,5. Nov. 1995,"18,9 Mio."
+17,121,18,Springfield Film Festival,A Star is Burns,5. März 1995,12. Nov. 1995,"14,4 Mio."
+18,122,19,Lisas Hochzeit,Lisa’s Wedding,19. März 1995,19. Nov. 1995,"14,4 Mio."
+19,123,20,25 Windhundwelpen,Two Dozen and One Greyhounds,9. Apr. 1995,26. Nov. 1995,"11,6 Mio."
+20,124,21,Der Lehrerstreik,The PTA Disbands,16. Apr. 1995,3. Dez. 1995,"11,8 Mio."
+21,125,22,Zu Ehren von Murphy,Round Springfield,30. Apr. 1995,31. Dez. 1995,"12,6 Mio."
+22,126,23,Die Springfield Connection,The Springfield Connection,7. Mai 1995,10. Dez. 1995,"12,7 Mio."
+23,127,24,Auf zum Zitronenbaum,Lemon of Troy,14. Mai 1995,17. Dez. 1995,"13,1 Mio."
+24,128,25,Wer erschoss Mr. Burns? – Teil 1,Who Shot Mr. Burns? (Part One),21. Mai 1995,3. Nov. 1996,15 Mio.

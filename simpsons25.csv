@@ -1,25 +1,23 @@
-    Nr. (ges.)  Nr. (St.)                       Deutscher Titel  ... Deutsch­sprachige Erstaus­strahlung (D)              Regie                            Drehbuch
-0          531          1                             Homerland  ...                            1. Sep. 2014       Bob Anderson                    Stephanie Gillis
-1          532          2                  Freaks in der Manege  ...                           27. Okt. 2014         Rob Oliver                      Jeff Westbrook
-2          533          3                        Nichts bereuen  ...                            8. Sep. 2014      Mark Kirkland                        Marc Wilmore
-3          534          4                                  YOLO  ...                           15. Sep. 2014    Michael Polcino                      Michael Nobori
-4          535          5                          Homer Junior  ...                           22. Sep. 2014   Matthew Faughnan      Don Payne & Mitchell H. Glazer
-5          536          6                        Silly Simpsony  ...                           29. Sep. 2014      Mark Kirkland                            Tim Long
-6          537          7                       Global Clowning  ...                            6. Okt. 2014       Bob Anderson                       Joel H. Cohen
-7          538          8                 White Christmas Blues  ...                           10. Nov. 2014  Steven Dean Moore                           Don Payne
-8          539          9                       Cinema Piratiso  ...                           13. Okt. 2014     Matthew Nastuk                    J. Stewart Burns
-9          540         10                      Manga Love Story  ...                           20. Okt. 2014     Chris Clements                            Tim Long
-10         541         11                      Enter the Matrix  ...                            5. Jan. 2015       Lance Kramer                        Brian Kelley
-11         542         12                  Durch Diggs und dünn  ...                           12. Jan. 2015    Michael Polcino         Dan Greaney & Allen Glazier
-12         543         13                     Der Herr der Gene  ...                           19. Jan. 2015  Matthew Schofield                      Jeff Westbrook
-13         544         14               Besuch der alten Herren  ...                           26. Jan. 2015       Chuck Sheetz                        Kevin Curran
-14         545         15                   Malen nach Bezahlen  ...                            2. Feb. 2015  Steven Dean Moore                        Rob LaZebnik
-15         546         16                     Homer, die Pfeife  ...                            9. Feb. 2015      Mark Kirkland                       Michael Price
-16         547         17                                 Luca$  ...                           16. Feb. 2015     Chris Clements                       Carolyn Omine
-17         548         18               Vorwärts in die Zukunft  ...                           23. Feb. 2015       Bob Anderson                    J. Stewart Burns
-18         549         19                 Ihr Kinderlein kommet  ...                            2. März 2015     Matthew Nastuk                          John Frink
-19         550         20  Auf dänische Steine können Sie bauen  ...                            3. Nov. 2014     Matthew Nastuk                        Brian Kelley
-20         551         21               Ziemlich beste Freundin  ...                            9. März 2015    Michael Polcino                  David H. Steinberg
-21         552         22           Feigheit kommt vor dem Fall  ...                           16. März 2015     Timothy Bailey  Billy Kimball & Ian Maxtone-Graham
-
-[22 rows x 8 columns]
+,Nr. (ges.),Nr. (St.),Deutscher Titel,Original­titel,Erstaus­strahlung USA,Deutsch­sprachige Erstaus­strahlung (D),Regie,Drehbuch
+0,531,1,Homerland,Homerland,29. Sep. 2013,1. Sep. 2014,Bob Anderson,Stephanie Gillis
+1,532,2,Freaks in der Manege,Treehouse of Horror XXIV,6. Okt. 2013,27. Okt. 2014,Rob Oliver,Jeff Westbrook
+2,533,3,Nichts bereuen,Four Regrettings and a Funeral,3. Nov. 2013,8. Sep. 2014,Mark Kirkland,Marc Wilmore
+3,534,4,YOLO,YOLO,10. Nov. 2013,15. Sep. 2014,Michael Polcino,Michael Nobori
+4,535,5,Homer Junior,Labor Pains,17. Nov. 2013,22. Sep. 2014,Matthew Faughnan,Don Payne & Mitchell H. Glazer
+5,536,6,Silly Simpsony,The Kid is All Right,24. Nov. 2013,29. Sep. 2014,Mark Kirkland,Tim Long
+6,537,7,Global Clowning,Yellow Subterfuge,8. Dez. 2013,6. Okt. 2014,Bob Anderson,Joel H. Cohen
+7,538,8,White Christmas Blues,White Christmas Blues,15. Dez. 2013,10. Nov. 2014,Steven Dean Moore,Don Payne
+8,539,9,Cinema Piratiso,Steal this Episode,5. Jan. 2014,13. Okt. 2014,Matthew Nastuk,J. Stewart Burns
+9,540,10,Manga Love Story,Married to the Blob,12. Jan. 2014,20. Okt. 2014,Chris Clements,Tim Long
+10,541,11,Enter the Matrix,Specs and the City,26. Jan. 2014,5. Jan. 2015,Lance Kramer,Brian Kelley
+11,542,12,Durch Diggs und dünn,Diggs,9. März 2014,12. Jan. 2015,Michael Polcino,Dan Greaney & Allen Glazier
+12,543,13,Der Herr der Gene,The Man Who Grew Too Much,9. März 2014,19. Jan. 2015,Matthew Schofield,Jeff Westbrook
+13,544,14,Besuch der alten Herren,The Winter of his Content,16. März 2014,26. Jan. 2015,Chuck Sheetz,Kevin Curran
+14,545,15,Malen nach Bezahlen,The War of Art,23. März 2014,2. Feb. 2015,Steven Dean Moore,Rob LaZebnik
+15,546,16,"Homer, die Pfeife",You Don’t Have to Live Like a Referee,30. März 2014,9. Feb. 2015,Mark Kirkland,Michael Price
+16,547,17,Luca$,Luca$,6. Apr. 2014,16. Feb. 2015,Chris Clements,Carolyn Omine
+17,548,18,Vorwärts in die Zukunft,Days of Future Future,13. Apr. 2014,23. Feb. 2015,Bob Anderson,J. Stewart Burns
+18,549,19,Ihr Kinderlein kommet,What to Expect When Bart’s Expecting,27. Apr. 2014,2. März 2015,Matthew Nastuk,John Frink
+19,550,20,Auf dänische Steine können Sie bauen,Brick Like Me,4. Mai 2014,3. Nov. 2014,Matthew Nastuk,Brian Kelley
+20,551,21,Ziemlich beste Freundin,Pay Pal,11. Mai 2014,9. März 2015,Michael Polcino,David H. Steinberg
+21,552,22,Feigheit kommt vor dem Fall,The Yellow Badge of Cowardge,18. Mai 2014,16. März 2015,Timothy Bailey,Billy Kimball & Ian Maxtone-Graham

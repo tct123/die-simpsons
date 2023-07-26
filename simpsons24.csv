@@ -1,25 +1,23 @@
-    Nr. (ges.)  Nr. (St.)  ...              Regie                            Drehbuch
-0          509          1  ...       Bob Anderson                            Tim Long
-1          510          2  ...  Steven Dean Moore         David Mandel & Brian Kelley
-2          511          3  ...         Rob Oliver                       Bill Odenkirk
-3          512          4  ...     Matthew Nastuk                       Joel H. Cohen
-4          513          5  ...      Mark Kirkland                       Michael Price
-5          514          6  ...     Timothy Bailey                    Stephanie Gillis
-6          515          7  ...   Matthew Faughnan                         Matt Selman
-7          516          8  ...  Steven Dean Moore                       Carolyn Omine
-8          517          9  ...      Mark Kirkland                        Brian Kelley
-9          518         10  ...     Chris Clements                       Joel H. Cohen
-10         519         11  ...       Bob Anderson                        Rob Lazebnik
-11         520         12  ...    Michael Polcino                            Tim Long
-12         521         13  ...     Matthew Nastuk             Tom Gammill & Max Pross
-13         522         14  ...       Chuck Sheetz                         Matt Selman
-14         523         15  ...  Matthew Schofield                          John Frink
-15         524         16  ...      Mark Kirkland  Billy Kimball & Ian Maxtone-Graham
-16         525         17  ...  Steven Dean Moore                    J. Stewart Burns
-17         526         18  ...     Chris Clements                       Bill Odenkirk
-18         527         19  ...     Matthew Nastuk                  Valentina L. Garza
-19         528         20  ...       Bob Anderson                   Brian McConnachie
-20         529         21  ...       Chuck Sheetz                         Eric Kaplan
-21         530         22  ...  Steven Dean Moore                       Michael Price
-
-[22 rows x 8 columns]
+,Nr. (ges.),Nr. (St.),Deutscher Titel,Original­titel,Erstaus­strahlung USA,Deutsch­sprachige Erstaus­strahlung (D),Regie,Drehbuch
+0,509,1,Moonshine River,Moonshine River,30. Sep. 2012,26. Aug. 2013,Bob Anderson,Tim Long
+1,510,2,Die unheimlich verteufelte Zeitreise durch das schwarze Loch,Treehouse of Horror XXIII,7. Okt. 2012,26. Aug. 2013,Steven Dean Moore,David Mandel & Brian Kelley
+2,511,3,Homers vergessene Kinder,Adventures in Baby-Getting,4. Nov. 2012,2. Sep. 2013,Rob Oliver,Bill Odenkirk
+3,512,4,Grampa auf Abwegen,Gone Abie Gone,11. Nov. 2012,9. Sep. 2013,Matthew Nastuk,Joel H. Cohen
+4,513,5,Goodsimpsons,Penny-Wiseguys,18. Nov. 2012,9. Sep. 2013,Mark Kirkland,Michael Price
+5,514,6,"Mein Freund, der Wunderbaum",A Tree Grows in Springfield,25. Nov. 2012,16. Sep. 2013,Timothy Bailey,Stephanie Gillis
+6,515,7,Coole Aussichten,The Day the Earth Stood Cool,9. Dez. 2012,23. Sep. 2013,Matthew Faughnan,Matt Selman
+7,516,8,Wem der Bongo schlägt,To Cur With Love,16. Dez. 2012,30. Sep. 2013,Steven Dean Moore,Carolyn Omine
+8,517,9,Homergeddon,Homer Goes To Prep School,6. Jan. 2013,7. Okt. 2013,Mark Kirkland,Brian Kelley
+9,518,10,Das Bart-Ultimatum,A Test Before Trying,13. Jan. 2013,14. Okt. 2013,Chris Clements,Joel H. Cohen
+10,519,11,Stille Wasser sind adoptiv,The Changing of the Guardian,27. Jan. 2013,21. Okt. 2013,Bob Anderson,Rob Lazebnik
+11,520,12,Verrückt nach Mary,Love is a Many-Splintered Thing,10. Feb. 2013,6. Jan. 2014,Michael Polcino,Tim Long
+12,521,13,Eine Glatze macht noch keinen Kirk,Hardly Kirk-ing,17. Feb. 2013,13. Jan. 2014,Matthew Nastuk,Tom Gammill & Max Pross
+13,522,14,Der glamouröse Godfrey,Gorgeous Grampa,3. März 2013,20. Jan. 2014,Chuck Sheetz,Matt Selman
+14,523,15,Blauauge sei wachsam,"Black-Eyed, Please",10. März 2013,27. Jan. 2014,Matthew Schofield,John Frink
+15,524,16,Burns Begins,Dark Knight Court,17. März 2013,3. Feb. 2014,Mark Kirkland,Billy Kimball & Ian Maxtone-Graham
+16,525,17,Was animierte Frauen wollen,What Animated Women Want,14. Apr. 2013,10. Feb. 2014,Steven Dean Moore,J. Stewart Burns
+17,526,18,Apokalypse Springfield,Pulpit Friction,28. Apr. 2013,17. Feb. 2014,Chris Clements,Bill Odenkirk
+18,527,19,Whiskey Business,Whiskey Business,5. Mai 2013,24. Feb. 2014,Matthew Nastuk,Valentina L. Garza
+19,528,20,Der fabelhafte Faker Boy,The Fabulous Faker Boy,12. Mai 2013,3. März 2014,Bob Anderson,Brian McConnachie
+20,529,21,Die Legende von Carl,The Saga of Carl Carlson,19. Mai 2013,10. März 2014,Chuck Sheetz,Eric Kaplan
+21,530,22,Glück auf Schienen,Dangers On A Train,19. Mai 2013,17. März 2014,Steven Dean Moore,Michael Price

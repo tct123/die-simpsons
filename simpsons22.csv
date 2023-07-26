@@ -1,25 +1,23 @@
-    Nr. (ges.)  Nr. (St.)  ... Erstaus­strahlung (USA) Deutsch­sprachige Erstaus­strahlung (D)
-0          465          1  ...           26. Sep. 2010                           30. Aug. 2011
-1          466          2  ...            3. Okt. 2010                            6. Sep. 2011
-2          467          3  ...           10. Okt. 2010                           13. Sep. 2011
-3          468          4  ...            7. Nov. 2010                           29. Okt. 2011
-4          469          5  ...           14. Nov. 2010                           20. Sep. 2011
-5          470          6  ...           21. Nov. 2010                           27. Sep. 2011
-6          471          7  ...           28. Nov. 2010                            4. Okt. 2011
-7          472          8  ...            5. Dez. 2010                            6. Dez. 2011
-8          473          9  ...           12. Dez. 2010                           11. Okt. 2011
-9          474         10  ...            9. Jan. 2011                           18. Okt. 2011
-10         475         11  ...           16. Jan. 2011                           25. Okt. 2011
-11         476         12  ...           23. Jan. 2011                           10. Jan. 2012
-12         477         13  ...           13. Feb. 2011                           17. Jan. 2012
-13         478         14  ...           20. Feb. 2011                           24. Jan. 2012
-14         479         15  ...            6. März 2011                           31. Jan. 2012
-15         480         16  ...           13. März 2011                            7. Feb. 2012
-16         481         17  ...           27. März 2011                           14. Feb. 2012
-17         482         18  ...           10. Apr. 2011                           21. Feb. 2012
-18         483         19  ...             1. Mai 2011                           28. Feb. 2012
-19         484         20  ...             8. Mai 2011                            6. März 2012
-20         485         21  ...            15. Mai 2011                           13. März 2012
-21         486         22  ...            22. Mai 2011                           20. März 2012
-
-[22 rows x 6 columns]
+,Nr. (ges.),Nr. (St.),Deutscher Titel,Original­titel,Erstaus­strahlung (USA),Deutsch­sprachige Erstaus­strahlung (D)
+0,465,1,Grundschul-Musical,Elementary School Musical,26. Sep. 2010,30. Aug. 2011
+1,466,2,Auf diese Lisa können sie bauen,Loan-a Lisa,3. Okt. 2010,6. Sep. 2011
+2,467,3,The Lisa Series,MoneyBART,10. Okt. 2010,13. Sep. 2011
+3,468,4,Blut und Spiele,Treehouse of Horror XXI,7. Nov. 2010,29. Okt. 2011
+4,469,5,Die Lisa-Studie,"Lisa Simpson, This Isn’t Your Life",14. Nov. 2010,20. Sep. 2011
+5,470,6,Das Wunder von Burns,The Fool Monty,21. Nov. 2010,27. Sep. 2011
+6,471,7,Eine Taube macht noch keinen Sommer,How Munched is that Birdie in the Window?,28. Nov. 2010,4. Okt. 2011
+7,472,8,The Fight Before Christmas,The Fight Before Christmas,5. Dez. 2010,6. Dez. 2011
+8,473,9,Donnie Fatso,Donnie Fatso,12. Dez. 2010,11. Okt. 2011
+9,474,10,Im Zeichen des Schwertes,Moms I’d Like to Forget,9. Jan. 2011,18. Okt. 2011
+10,475,11,Moeback Mountain,Flaming Moe,16. Jan. 2011,25. Okt. 2011
+11,476,12,Wenn der Homer mit dem Sohne,Homer the Father,23. Jan. 2011,10. Jan. 2012
+12,477,13,Die Farbe Grau,The Blue and the Gray,13. Feb. 2011,17. Jan. 2012
+13,478,14,Wütender Dad – Der Film,Angry Dad – The Movie,20. Feb. 2011,24. Jan. 2012
+14,479,15,Skorpione wie wir,The Scorpion’s Tale,6. März 2011,31. Jan. 2012
+15,480,16,Ein Sommernachtstrip,A Midsummer’s Nice Dreams,13. März 2011,7. Feb. 2012
+16,481,17,"Denn sie wissen nicht, wen sie würgen",Love is a Many Strangled Thing,27. März 2011,14. Feb. 2012
+17,482,18,Die große Simpsina,The Great Simpsina,10. Apr. 2011,21. Feb. 2012
+18,483,19,Die Mafiosi-Braut,The Real Housewives of Fat Tony,1. Mai 2011,28. Feb. 2012
+19,484,20,Homer mit den Fingerhänden,Homer Scissorhands,8. Mai 2011,6. März 2012
+20,485,21,500 Schlüssel,500 Keys,15. Mai 2011,13. März 2012
+21,486,22,Nedna,The Ned-Liest Catch,22. Mai 2011,20. März 2012

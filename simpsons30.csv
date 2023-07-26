@@ -1,26 +1,24 @@
-    Nr. (ges.)  Nr. (St.)              Deutscher Titel  ...                                         Drehbuch Prod. Code Zuschauer (USA)[17]
-0          640          1           Bart ist nicht tot  ...                                 Stephanie Gillis     XABF19           3,24 Mio.
-1          641          2             Heartbreak Hotel  ...                     Renee Ridgeley & Matt Selman     XABF15           4,60 Mio.
-2          642          3       Himmlische Geschichten  ...    Dan Castellaneta, Deb Lacusta & Vince Waldron     XABF17           2,52 Mio.
-3          643          4              Planet im Nebel  ...                                    Joel H. Cohen     XABF16           2,95 Mio.
-4          644          5              Passives Fahren  ...                                     Rob LaZebnik     XABF18           5,08 Mio.
-5          645          6           Keine Frau für Moe  ...                                   Michael Ferris     XABF20           2,35 Mio.
-6          646          7                    Genderama  ...                     Carolyn Omine & Robin Sayers     XABF21           4,34 Mio.
-7          647          8            Krusty, der Clown  ...                                         Ryan Koh     XABF22           2,11 Mio.
-8          648          9               Daddicus Finch  ...                                          Al Jean     YABF01           4,33 Mio.
-9          649         10       Weihnachten in Florida  ...  John Frink & Joel H. Cohen Idee: Jeff Westbrook     YABF02           7,53 Mio.
-10         650         11                Plastiktrauma  ...                                    Michael Price     YABF03           2,33 Mio.
-11         651         12           Das Mädchen im Bus  ...                                    Joel H. Cohen     YABF04           8,20 Mio.
-12         652         13                 Fett's Dance  ...                                      Jane Becker     YABF06           1,75 Mio.
-13         653         14         Projekt Weltraumsand  ...                                      Matt Selman     YABF05           2,75 Mio.
-14         654         15                  Der Prozess  ...     Brian Kelley & Dan Vebber Idee: Rob LaZebnik     YABF07           2,25 Mio.
-15         655         16          Mission Simpossible  ...                                   Jeff Westbrook     YABF08           2,21 Mio.
-16         656         17           Friss meine Sports  ...                                     Rob LaZebnik     YABF09           2,08 Mio.
-17         657         18  Bart gegen Itchy & Scratchy  ...                                      Megan Amram     YABF10           1,99 Mio.
-18         658         19    Harmonie vs. Philharmonie  ...                                 Nancy Cartwright     YABF11           2,07 Mio.
-19         659         20                     Oklahoma  ...                       Jeff Martin & Jenna Martin     YABF12           1,61 Mio.
-20         660         21                   Oh, Kanada  ...                      Tim Long & Miranda Thompson     YABF14           1,93 Mio.
-21         661         22     Kriminalakte Springfield  ...                                     Brian Kelley     YABF15           1,79 Mio.
-22         662         23     Kristallblaue Versuchung  ...                                      Megan Amram     YABF16           1,50 Mio.
-
-[23 rows x 10 columns]
+,Nr. (ges.),Nr. (St.),Deutscher Titel,Original­titel,Erstaus­strahlung USA,Deutsch­sprachige Erst­veröffent­lichung (D/A),Regie,Drehbuch,Prod. Code,Zuschauer (USA)[17]
+0,640,1,Bart ist nicht tot,Bart’s Not Dead,30. Sep. 2018,28. Okt. 2019,Bob Anderson,Stephanie Gillis,XABF19,"3,24 Mio."
+1,641,2,Heartbreak Hotel,Heartbreak Hotel,7. Okt. 2018,28. Okt. 2019,Steven Dean Moore,Renee Ridgeley & Matt Selman,XABF15,"4,60 Mio."
+2,642,3,Himmlische Geschichten,My Way or the Highway to Heaven,14. Okt. 2018,11. Nov. 2019,Rob Oliver,"Dan Castellaneta, Deb Lacusta & Vince Waldron",XABF17,"2,52 Mio."
+3,643,4,Planet im Nebel,Treehouse of Horror XXIX,21. Okt. 2018,31. Okt. 2019,Matthew Faughnan,Joel H. Cohen,XABF16,"2,95 Mio."
+4,644,5,Passives Fahren,Baby You Can’t Drive My Car,4. Nov. 2018,18. Nov. 2019,Timothy Bailey,Rob LaZebnik,XABF18,"5,08 Mio."
+5,645,6,Keine Frau für Moe,From Russia Without Love,11. Nov. 2018,25. Nov. 2019,Matthew Nastuk,Michael Ferris,XABF20,"2,35 Mio."
+6,646,7,Genderama,Werking Mom,18. Nov. 2018,2. Dez. 2019,Michael Polcino,Carolyn Omine & Robin Sayers,XABF21,"4,34 Mio."
+7,647,8,"Krusty, der Clown",Krusty the Clown,25. Nov. 2018,9. Dez. 2019,Matthew Faughnan,Ryan Koh,XABF22,"2,11 Mio."
+8,648,9,Daddicus Finch,Daddicus Finch,2. Dez. 2018,30. Dez. 2019,Steven Dean Moore,Al Jean,YABF01,"4,33 Mio."
+9,649,10,Weihnachten in Florida,’Tis the 30th Season,9. Dez. 2018,16. Dez. 2019,Lance Kramer,John Frink & Joel H. Cohen Idee: Jeff Westbrook,YABF02,"7,53 Mio."
+10,650,11,Plastiktrauma,Mad About the Toy,6. Jan. 2019,6. Jan. 2020,Rob Oliver,Michael Price,YABF03,"2,33 Mio."
+11,651,12,Das Mädchen im Bus,The Girl on the Bus,13. Jan. 2019,13. Jan. 2020,Chris Clements,Joel H. Cohen,YABF04,"8,20 Mio."
+12,652,13,Fett's Dance,I’m Dancing as Fat as I Can,10. Feb. 2019,3. Feb. 2020,Matthew Nastuk,Jane Becker,YABF06,"1,75 Mio."
+13,653,14,Projekt Weltraumsand,The Clown Stays in the Picture,17. Feb. 2019,10. Feb. 2020,Timothy Bailey,Matt Selman,YABF05,"2,75 Mio."
+14,654,15,Der Prozess,101 Mitigations,3. März 2019,17. Feb. 2020,Mark Kirkland,Brian Kelley & Dan Vebber Idee: Rob LaZebnik,YABF07,"2,25 Mio."
+15,655,16,Mission Simpossible,I Want You (She’s So Heavy),10. März 2019,24. Feb. 2020,Steven Dean Moore,Jeff Westbrook,YABF08,"2,21 Mio."
+16,656,17,Friss meine Sports,E My Sports,17. März 2019,2. März 2020,Rob Oliver,Rob LaZebnik,YABF09,"2,08 Mio."
+17,657,18,Bart gegen Itchy & Scratchy,Bart vs. Itchy & Scratchy,24. März 2019,9. März 2020,Chris Clements,Megan Amram,YABF10,"1,99 Mio."
+18,658,19,Harmonie vs. Philharmonie,Girl’s in the Band,31. März 2019,24. März 2020,Jennifer Moeller,Nancy Cartwright,YABF11,"2,07 Mio."
+19,659,20,Oklahoma,I’m Just a Girl Who Can’t Say D’oh,7. Apr. 2019,24. März 2020,Michael Polcino,Jeff Martin & Jenna Martin,YABF12,"1,61 Mio."
+20,660,21,"Oh, Kanada",D’oh Canada,28. Apr. 2019,24. März 2020,Matthew Nastuk,Tim Long & Miranda Thompson,YABF14,"1,93 Mio."
+21,661,22,Kriminalakte Springfield,Woo-hoo Dunnit?,5. Mai 2019,24. März 2020,Steven Dean Moore,Brian Kelley,YABF15,"1,79 Mio."
+22,662,23,Kristallblaue Versuchung,Crystal Blue-Haired Persuasion,12. Mai 2019,24. März 2020,Matthew Faughnan,Megan Amram,YABF16,"1,50 Mio."

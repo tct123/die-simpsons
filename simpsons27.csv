@@ -1,25 +1,23 @@
-    Nr. (ges.)  Nr. (St.)  ...                              Regie          Drehbuch
-0          575          1  ...                     Matthew Nastuk  J. Stewart Burns
-1          576          2  ...                     Timothy Bailey     Joel H. Cohen
-2          577          3  ...                         Rob Oliver  J. Stewart Burns
-3          578          4  ...                   Mike B. Anderson     Carolyn Omine
-4          579          5  ...                  Steven Dean Moore     Joel H. Cohen
-5          580          6  ...                   Matthew Faughnan      Rob LaZebnik
-6          581          7  ...                       Bob Anderson  Stephanie Gillis
-7          582          8  ...                  Steven Dean Moore    Michael Ferris
-8          583          9  ...                         Rob Oliver       Dan Greaney
-9          584         10  ...                     Chris Clements      Rob LaZebnik
-10         585         11  ...                     Timothy Bailey     Joel H. Cohen
-11         586         12  ...                       Bob Anderson     Michael Price
-12         587         13  ...                      Mark Kirkland        John Frink
-13         588         14  ...                     Matthew Nastuk     Carolyn Omine
-14         589         15  ...                  Steven Dean Moore        Dan Vebber
-15         590         16  ...  Matthew Faughnan & Chris Clements      Brian Kelley
-16         591         17  ...                         Rob Oliver      Rob LaZebnik
-17         592         18  ...                       Bob Anderson       Jeff Martin
-18         593         19  ...                    Michael Polcino  J. Stewart Burns
-19         594         20  ...                     Timothy Bailey     Bill Odenkirk
-20         595         21  ...                     Matthew Nastuk        John Frink
-21         596         22  ...                   Matthew Faughnan      Eric Horsted
-
-[22 rows x 8 columns]
+,Nr. (ges.),Nr. (St.),Deutscher Titel,Original­titel,Erstaus­strahlung USA,Deutsch­sprachige Erstaus­strahlung (D),Regie,Drehbuch
+0,575,1,Traumwelten,Every Man’s Dream,27. Sep. 2015,30. Aug. 2016,Matthew Nastuk,J. Stewart Burns
+1,576,2,Grilling Homer,Cue Detective,4. Okt. 2015,30. Aug. 2016,Timothy Bailey,Joel H. Cohen
+2,577,3,Grauer Dunst,Puffless,11. Okt. 2015,6. Sep. 2016,Rob Oliver,J. Stewart Burns
+3,578,4,Horror-Halloween,Halloween of Horror,18. Okt. 2015,25. Okt. 2016,Mike B. Anderson,Carolyn Omine
+4,579,5,Killer und Zilla,Treehouse of Horror XXVI,25. Okt. 2015,8. Nov. 2016,Steven Dean Moore,Joel H. Cohen
+5,580,6,Freundin mit gewissen Vorzügen,Friend with Benefit,8. Nov. 2015,13. Sep. 2016,Matthew Faughnan,Rob LaZebnik
+6,581,7,Lisa on Broadway,Lisa with an ’S’,22. Nov. 2015,20. Sep. 2016,Bob Anderson,Stephanie Gillis
+7,582,8,Wege zum Ruhm,Paths of Glory,6. Dez. 2015,27. Sep. 2016,Steven Dean Moore,Michael Ferris
+8,583,9,Barthood,Barthood,13. Dez. 2015,4. Okt. 2016,Rob Oliver,Dan Greaney
+9,584,10,Conrad,The Girl Code,3. Jan. 2016,11. Okt. 2016,Chris Clements,Rob LaZebnik
+10,585,11,Die Milch macht’s,Teenage Mutant Milk-Caused Hurdles,10. Jan. 2016,18. Okt. 2016,Timothy Bailey,Joel H. Cohen
+11,586,12,Apucalypse Now,Much Apu About Something,17. Jan. 2016,15. Nov. 2016,Bob Anderson,Michael Price
+12,587,13,Liebe liegt in der N2-O2-Ar-CO2-Ne-He-CH4,Love is in the N2-O2-Ar-CO2-Ne-He-CH4,14. Feb. 2016,21. März 2017,Mark Kirkland,John Frink
+13,588,14,Die Frau im Schrank,Gal of Constant Sorrow,21. Feb. 2016,28. März 2017,Matthew Nastuk,Carolyn Omine
+14,589,15,Lisa und das liebe Vieh,Lisa the Veterinarian,6. März 2016,4. Apr. 2017,Steven Dean Moore,Dan Vebber
+15,590,16,Die Marge-Ianer,The Marge-ian Chronicles,13. März 2016,11. Apr. 2017,Matthew Faughnan & Chris Clements,Brian Kelley
+16,591,17,Ein Käfig voller Smithers,The Burns Cage,3. Apr. 2016,18. Apr. 2017,Rob Oliver,Rob LaZebnik
+17,592,18,Die Jazz-Krise,How Lisa Got Her Marge Back,10. Apr. 2016,25. Apr. 2017,Bob Anderson,Jeff Martin
+18,593,19,Fland Canyon,Fland Canyon,24. Apr. 2016,2. Mai 2017,Michael Polcino,J. Stewart Burns
+19,594,20,"Der Kurier, der mich liebte",To Courier with Love,8. Mai 2016,16. Mai 2017,Timothy Bailey,Bill Odenkirk
+20,595,21,Simprovisation,Simprovised,15. Mai 2016,9. Mai 2017,Matthew Nastuk,John Frink
+21,596,22,Orange is the New Yellow,Orange is the New Yellow,22. Mai 2016,23. Mai 2017,Matthew Faughnan,Eric Horsted

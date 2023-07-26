@@ -1,25 +1,23 @@
-    Nr. (ges.)  Nr. (St.)                 Deutscher Titel  ... Erstaus­strahlung (USA) Deutsch­sprachige Erstaus­strahlung (D) Zuschauer (USA)
-0           60          1            Krise im Kamp Krusty  ...           24. Sep. 1992                           14. Apr. 1994       21,8 Mio.
-1           61          2            Bühne frei für Marge  ...            1. Okt. 1992                           16. Feb. 1993       18,3 Mio.
-2           62          3    Ein gotteslästerliches Leben  ...            8. Okt. 1992                           21. Apr. 1994       19,3 Mio.
-3           63          4     Lisa, die Schönheitskönigin  ...           15. Okt. 1992                           28. Apr. 1994         19 Mio.
-4           64          5                Bösartige Spiele  ...           29. Okt. 1992                            12. Mai 1994       25,1 Mio.
-5           65          6              Bart wird bestraft  ...            3. Nov. 1992                             5. Mai 1994       20,1 Mio.
-6           66          7               Marge muss jobben  ...            5. Nov. 1992                            19. Mai 1994       22,9 Mio.
-7           67          8       Laura, die neue Nachbarin  ...           12. Nov. 1992                            26. Mai 1994       23,1 Mio.
-8           68          9          Einmal als Schneekönig  ...           19. Nov. 1992                            9. Juni 1994         24 Mio.
-9           69         10          Am Anfang war das Wort  ...            3. Dez. 1992                           16. Juni 1994       28,6 Mio.
-10          70         11           Oh Schmerz, das Herz!  ...           17. Dez. 1992                            3. Juli 1994       23,6 Mio.
-11          71         12            Homer kommt in Fahrt  ...           14. Jan. 1993                           10. Juli 1994         23 Mio.
-12          72         13             Selma will ein Baby  ...           21. Jan. 1993                           21. Aug. 1994       24,5 Mio.
-13          73         14  Großer Bruder – kleiner Bruder  ...            4. Feb. 1993                           17. Juli 1994       23,8 Mio.
-14          74         15                Ralph liebt Lisa  ...           11. Feb. 1993                           28. Aug. 1994       25,2 Mio.
-15          75         16               Keine Experimente  ...           18. Feb. 1993                            4. Sep. 1994       25,7 Mio.
-16          76         17        Prinzessin von Zahnstein  ...           11. März 1993                           31. Dez. 1996       22,4 Mio.
-17          77         18            Nur ein Aprilscherz…  ...            1. Apr. 1993                           11. Sep. 1994       25,5 Mio.
-18          78         19               Wir vom Trickfilm  ...           15. Apr. 1993                           31. Okt. 1996       20,1 Mio.
-19          79         20               Das Schlangennest  ...           29. Apr. 1993                           24. Juli 1994         20 Mio.
-20          80         21            Marge wird verhaftet  ...             6. Mai 1993                            7. Aug. 1994       17,3 Mio.
-21          81         22             Krusty, der TV-Star  ...            13. Mai 1993                           31. Juli 1994       19,4 Mio.
-
-[22 rows x 7 columns]
+,Nr. (ges.),Nr. (St.),Deutscher Titel,Original­titel,Erstaus­strahlung (USA),Deutsch­sprachige Erstaus­strahlung (D),Zuschauer (USA)
+0,60,1,Krise im Kamp Krusty,Kamp Krusty,24. Sep. 1992,14. Apr. 1994,"21,8 Mio."
+1,61,2,Bühne frei für Marge,A Streetcar Named Marge,1. Okt. 1992,16. Feb. 1993,"18,3 Mio."
+2,62,3,Ein gotteslästerliches Leben,Homer the Heretic,8. Okt. 1992,21. Apr. 1994,"19,3 Mio."
+3,63,4,"Lisa, die Schönheitskönigin",Lisa the Beauty Queen,15. Okt. 1992,28. Apr. 1994,19 Mio.
+4,64,5,Bösartige Spiele,Treehouse of Horror III,29. Okt. 1992,12. Mai 1994,"25,1 Mio."
+5,65,6,Bart wird bestraft,Itchy & Scratchy: The Movie,3. Nov. 1992,5. Mai 1994,"20,1 Mio."
+6,66,7,Marge muss jobben,Marge Gets a Job,5. Nov. 1992,19. Mai 1994,"22,9 Mio."
+7,67,8,"Laura, die neue Nachbarin",New Kid on the Block,12. Nov. 1992,26. Mai 1994,"23,1 Mio."
+8,68,9,Einmal als Schneekönig,Mr. Plow,19. Nov. 1992,9. Juni 1994,24 Mio.
+9,69,10,Am Anfang war das Wort,Lisa’s First Word,3. Dez. 1992,16. Juni 1994,"28,6 Mio."
+10,70,11,"Oh Schmerz, das Herz!",Homer’s Triple Bypass,17. Dez. 1992,3. Juli 1994,"23,6 Mio."
+11,71,12,Homer kommt in Fahrt,Marge vs. the Monorail,14. Jan. 1993,10. Juli 1994,23 Mio.
+12,72,13,Selma will ein Baby,Selma’s Choice,21. Jan. 1993,21. Aug. 1994,"24,5 Mio."
+13,73,14,Großer Bruder – kleiner Bruder,Brother from the Same Planet,4. Feb. 1993,17. Juli 1994,"23,8 Mio."
+14,74,15,Ralph liebt Lisa,I Love Lisa,11. Feb. 1993,28. Aug. 1994,"25,2 Mio."
+15,75,16,Keine Experimente,Duffless,18. Feb. 1993,4. Sep. 1994,"25,7 Mio."
+16,76,17,Prinzessin von Zahnstein,Last Exit to Springfield,11. März 1993,31. Dez. 1996,"22,4 Mio."
+17,77,18,Nur ein Aprilscherz…,So It’s Come to This: A Simpsons Clip Show,1. Apr. 1993,11. Sep. 1994,"25,5 Mio."
+18,78,19,Wir vom Trickfilm,The Front,15. Apr. 1993,31. Okt. 1996,"20,1 Mio."
+19,79,20,Das Schlangennest,Whacking Day,29. Apr. 1993,24. Juli 1994,20 Mio.
+20,80,21,Marge wird verhaftet,Marge in Chains,6. Mai 1993,7. Aug. 1994,"17,3 Mio."
+21,81,22,"Krusty, der TV-Star",Krusty Gets Kancelled,13. Mai 1993,31. Juli 1994,"19,4 Mio."

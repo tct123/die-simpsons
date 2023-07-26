@@ -1,25 +1,23 @@
-    Nr. (ges.)  Nr. (St.)                    Deutscher Titel  ... Erstaus­strahlung (USA) Deutsch­sprachige Erstaus­strahlung (D) Zuschauer (USA)
-0           14          1                  Der Musterschüler  ...           11. Okt. 1990                           20. Dez. 1991       33,6 Mio.
-1           15          2              Karriere mit Köpfchen  ...           18. Okt. 1990                           10. Jan. 1992       29,9 Mio.
-2           16          3                   Horror frei Haus  ...           25. Okt. 1990                           17. Jan. 1992       27,4 Mio.
-3           17          4      Frische Fische mit drei Augen  ...            1. Nov. 1990                           24. Jan. 1992       26,1 Mio.
-4           18          5                    Das Maskottchen  ...            8. Nov. 1990                           31. Jan. 1992       26,1 Mio.
-5           19          6                      Der Wettkampf  ...           15. Nov. 1990                            7. Feb. 1992       25,4 Mio.
-6           20          7                   Bart bleibt hart  ...           22. Nov. 1990                           14. Feb. 1992       25,9 Mio.
-7           21          8                  Der Teufelssprung  ...            6. Dez. 1990                           28. Feb. 1992       26,2 Mio.
-8           22          9  Das Fernsehen ist an allem schuld  ...           20. Dez. 1990                             8. Mai 1992       22,2 Mio.
-9           23         10         Bart kommt unter die Räder  ...           10. Jan. 1991                            6. März 1992       24,8 Mio.
-10          24         11               Die 24-Stunden-Frist  ...           24. Jan. 1991                           13. März 1992       24,2 Mio.
-11          25         12                   Wie alles begann  ...           31. Jan. 1991                           20. März 1992       26,8 Mio.
-12          26         13                    Das achte Gebot  ...            7. Feb. 1991                           27. März 1992       26,2 Mio.
-13          27         14                Der Heiratskandidat  ...           14. Feb. 1991                            3. Apr. 1992       23,9 Mio.
-14          28         15               Ein Bruder für Homer  ...           21. Feb. 1991                           10. Apr. 1992       26,8 Mio.
-15          29         16                Betragen mangelhaft  ...            7. März 1991                           24. Apr. 1992       23,9 Mio.
-16          30         17                      Die Erbschaft  ...           28. März 1991                            22. Mai 1992       21,2 Mio.
-17          31         18                 Marges Meisterwerk  ...           11. Apr. 1991                            29. Mai 1992       20,6 Mio.
-18          32         19                 Der Aushilfslehrer  ...           25. Apr. 1991                           12. Juni 1992       17,7 Mio.
-19          33         20                 Kampf dem Ehekrieg  ...             2. Mai 1991                           31. Dez. 1991       19,7 Mio.
-20          34         21    Drei Freunde und ein Comic-Heft  ...             9. Mai 1991                            15. Mai 1992         21 Mio.
-21          35         22                   Der Lebensretter  ...           11. Juli 1991                           19. Juni 1992       17,3 Mio.
-
-[22 rows x 7 columns]
+,Nr. (ges.),Nr. (St.),Deutscher Titel,Original­titel,Erstaus­strahlung (USA),Deutsch­sprachige Erstaus­strahlung (D),Zuschauer (USA)
+0,14,1,Der Musterschüler,"Bart Gets an ""F""",11. Okt. 1990,20. Dez. 1991,"33,6 Mio."
+1,15,2,Karriere mit Köpfchen,Simpson and Delilah,18. Okt. 1990,10. Jan. 1992,"29,9 Mio."
+2,16,3,Horror frei Haus,Treehouse of Horror,25. Okt. 1990,17. Jan. 1992,"27,4 Mio."
+3,17,4,Frische Fische mit drei Augen,Two Cars in Every Garage and Three Eyes on Every Fish,1. Nov. 1990,24. Jan. 1992,"26,1 Mio."
+4,18,5,Das Maskottchen,Dancin’ Homer,8. Nov. 1990,31. Jan. 1992,"26,1 Mio."
+5,19,6,Der Wettkampf,Dead Putting Society,15. Nov. 1990,7. Feb. 1992,"25,4 Mio."
+6,20,7,Bart bleibt hart,Bart vs. Thanksgiving,22. Nov. 1990,14. Feb. 1992,"25,9 Mio."
+7,21,8,Der Teufelssprung,Bart the Daredevil,6. Dez. 1990,28. Feb. 1992,"26,2 Mio."
+8,22,9,Das Fernsehen ist an allem schuld,Itchy & Scratchy & Marge,20. Dez. 1990,8. Mai 1992,"22,2 Mio."
+9,23,10,Bart kommt unter die Räder,Bart Gets Hit by a Car,10. Jan. 1991,6. März 1992,"24,8 Mio."
+10,24,11,Die 24-Stunden-Frist,"One Fish, Two Fish, Blowfish, Blue Fish",24. Jan. 1991,13. März 1992,"24,2 Mio."
+11,25,12,Wie alles begann,The Way We Was,31. Jan. 1991,20. März 1992,"26,8 Mio."
+12,26,13,Das achte Gebot,Homer vs. Lisa and the 8th Commandment,7. Feb. 1991,27. März 1992,"26,2 Mio."
+13,27,14,Der Heiratskandidat,Principal Charming,14. Feb. 1991,3. Apr. 1992,"23,9 Mio."
+14,28,15,Ein Bruder für Homer,"Oh Brother, Where Art Thou?",21. Feb. 1991,10. Apr. 1992,"26,8 Mio."
+15,29,16,Betragen mangelhaft,Bart’s Dog Gets an F,7. März 1991,24. Apr. 1992,"23,9 Mio."
+16,30,17,Die Erbschaft,Old Money,28. März 1991,22. Mai 1992,"21,2 Mio."
+17,31,18,Marges Meisterwerk,Brush with Greatness,11. Apr. 1991,29. Mai 1992,"20,6 Mio."
+18,32,19,Der Aushilfslehrer,Lisa’s Substitute,25. Apr. 1991,12. Juni 1992,"17,7 Mio."
+19,33,20,Kampf dem Ehekrieg,The War of the Simpsons,2. Mai 1991,31. Dez. 1991,"19,7 Mio."
+20,34,21,Drei Freunde und ein Comic-Heft,Three Men and a Comic Book,9. Mai 1991,15. Mai 1992,21 Mio.
+21,35,22,Der Lebensretter,Blood Feud,11. Juli 1991,19. Juni 1992,"17,3 Mio."

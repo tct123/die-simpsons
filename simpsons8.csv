@@ -1,28 +1,26 @@
-    Nr. (ges.)  Nr. (St.)  ... Erstaus­strahlung (USA) Deutsch­sprachige Erstaus­strahlung (D)
-0          154          1  ...           27. Okt. 1996                           31. Okt. 1998
-1          155          2  ...            3. Nov. 1996                           28. Okt. 1997
-2          156          3  ...           10. Nov. 1996                           29. Okt. 1997
-3          157          4  ...           17. Nov. 1996                           30. Okt. 1997
-4          158          5  ...           24. Nov. 1996                            2. Nov. 1997
-5          159          6  ...            1. Dez. 1996                            3. Nov. 1997
-6          160          7  ...           15. Dez. 1996                            4. Nov. 1997
-7          161          8  ...           29. Dez. 1996                            5. Nov. 1997
-8          162          9  ...            5. Jan. 1997                           10. Nov. 1997
-9          163         10  ...           12. Jan. 1997                           24. Okt. 1997
-10         164         11  ...           19. Jan. 1997                            6. Nov. 1997
-11         165         12  ...            2. Feb. 1997                            7. Nov. 1997
-12         166         13  ...            7. Feb. 1997                           21. Okt. 1998
-13         167         14  ...            9. Feb. 1997                            5. Sep. 1997
-14         168         15  ...           16. Feb. 1997                           11. Nov. 1997
-15         169         16  ...           23. Feb. 1997                           12. Nov. 1997
-16         170         17  ...            2. März 1997                           13. Nov. 1997
-17         171         18  ...           16. März 1997                           14. Nov. 1997
-18         172         19  ...            6. Apr. 1997                           17. Nov. 1997
-19         173         20  ...           13. Apr. 1997                           18. Nov. 1997
-20         174         21  ...           20. Apr. 1997                           19. Nov. 1997
-21         175         22  ...           27. Apr. 1997                           20. Nov. 1997
-22         176         23  ...             4. Mai 1997                           21. Nov. 1997
-23         177         24  ...            11. Mai 1997                           25. Nov. 1997
-24         178         25  ...            18. Mai 1997                           26. Nov. 1997
-
-[25 rows x 6 columns]
+,Nr. (ges.),Nr. (St.),Deutscher Titel,Original­titel,Erstaus­strahlung (USA),Deutsch­sprachige Erstaus­strahlung (D)
+0,154,1,"Hugo, kleine Wesen und Kang",Treehouse of Horror VII,27. Okt. 1996,31. Okt. 1998
+1,155,2,Das verlockende Angebot,You Only Move Twice,3. Nov. 1996,28. Okt. 1997
+2,156,3,Auf in den Kampf!,The Homer They Fall,10. Nov. 1996,29. Okt. 1997
+3,157,4,Mr. Burns’ Sohn Larry,"Burns, Baby Burns",17. Nov. 1996,30. Okt. 1997
+4,158,5,Der beliebte Amüsierbetrieb,Bart After Dark,24. Nov. 1996,2. Nov. 1997
+5,159,6,"Scheide sich, wer kann",A Milhouse Divided,1. Dez. 1996,3. Nov. 1997
+6,160,7,Lisa will lieben,Lisa’s Date with Density,15. Dez. 1996,4. Nov. 1997
+7,161,8,Der total verrückte Ned,Hurricane Neddy,29. Dez. 1996,5. Nov. 1997
+8,162,9,Homers merkwürdiger Chili-Trip,El Viaje Misterioso De Nuestro Jomer,5. Jan. 1997,10. Nov. 1997
+9,163,10,Die Akte Springfield,The Springfield Files,12. Jan. 1997,24. Okt. 1997
+10,164,11,Marge und das Brezelbacken,The Twisted World of Marge Simpson,19. Jan. 1997,6. Nov. 1997
+11,165,12,Der Berg des Wahnsinns,Mountain of Madness,2. Feb. 1997,7. Nov. 1997
+12,166,13,Das magische Kindermädchen,Simpsoncalifragilisticexpiala(Annoyed Grunt)cious,7. Feb. 1997,21. Okt. 1998
+13,167,14,"Homer ist „Poochie, der Wunderhund“",The Itchy & Scratchy & Poochie Show,9. Feb. 1997,5. Sep. 1997
+14,168,15,Homer und gewisse Ängste,Homer’s Phobia,16. Feb. 1997,11. Nov. 1997
+15,169,16,Die beiden hinterhältigen Brüder,Brother from Another Series,23. Feb. 1997,12. Nov. 1997
+16,170,17,Babysitten – ein Albtraum,"My Sister, My Sitter",2. März 1997,13. Nov. 1997
+17,171,18,Der mysteriöse Bier-Baron,Homer vs. The Eighteenth Amendment,16. März 1997,14. Nov. 1997
+18,172,19,Wenn der Rektor mit der Lehrerin…,Grade School Confidential,6. Apr. 1997,17. Nov. 1997
+19,173,20,Der tollste Hund der Welt,The Canine Mutiny,13. Apr. 1997,18. Nov. 1997
+20,174,21,Der alte Mann und Lisa,The Old Man and the Lisa,20. Apr. 1997,19. Nov. 1997
+21,175,22,Marge als Seelsorgerin,In Marge We Trust,27. Apr. 1997,20. Nov. 1997
+22,176,23,Homer hatte einen Feind,Homer’s Enemy,4. Mai 1997,21. Nov. 1997
+23,177,24,Ihre Lieblings-Fernsehfamilie,The Simpsons Spin-Off Showcase,11. Mai 1997,25. Nov. 1997
+24,178,25,Lisas geheimer Krieg,The Secret War of Lisa Simpson,18. Mai 1997,26. Nov. 1997

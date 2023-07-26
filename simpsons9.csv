@@ -1,28 +1,26 @@
-    Nr. (ges.)  Nr. (St.)  ... Erstaus­strahlung (USA) Deutsch­sprachige Erstaus­strahlung (D)
-0          179          1  ...           21. Sep. 1997                            7. Okt. 1998
-1          180          2  ...           28. Sep. 1997                            8. Okt. 1998
-2          181          3  ...           19. Okt. 1997                            9. Okt. 1998
-3          182          4  ...           26. Okt. 1997                           12. Okt. 1998
-4          183          5  ...            2. Nov. 1997                           13. Okt. 1998
-5          184          6  ...            9. Nov. 1997                           14. Okt. 1998
-6          185          7  ...           16. Nov. 1997                           15. Okt. 1998
-7          186          8  ...           23. Nov. 1997                           16. Okt. 1998
-8          187          9  ...            7. Dez. 1997                           19. Okt. 1998
-9          188         10  ...           21. Dez. 1997                           20. Okt. 1998
-10         189         11  ...            4. Jan. 1998                           16. Jan. 2000
-11         190         12  ...           11. Jan. 1998                           22. Okt. 1998
-12         191         13  ...            8. Feb. 1998                           23. Okt. 1998
-13         192         14  ...           15. Feb. 1998                            4. Nov. 1999
-14         193         15  ...           22. Feb. 1998                            2. Okt. 1999
-15         194         16  ...            1. März 1998                           26. Okt. 1998
-16         195         17  ...            8. März 1998                           31. Dez. 1998
-17         196         18  ...           22. März 1998                            15. Mai 2000
-18         197         19  ...           29. März 1998                            24. Mai 1999
-19         198         20  ...            5. Apr. 1998                           27. Okt. 1998
-20         199         21  ...           19. Apr. 1998                           28. Okt. 1998
-21         200         22  ...           26. Apr. 1998                            6. Okt. 1998
-22         201         23  ...             3. Mai 1998                           29. Okt. 1998
-23         202         24  ...            10. Mai 1998                           30. Okt. 1998
-24         203         25  ...            17. Mai 1998                            2. Nov. 1998
-
-[25 rows x 6 columns]
+,Nr. (ges.),Nr. (St.),Deutscher Titel,Original­titel,Erstaus­strahlung (USA),Deutsch­sprachige Erstaus­strahlung (D)
+0,179,1,Homer und New York,The City of New York vs. Homer Simpson,21. Sep. 1997,7. Okt. 1998
+1,180,2,Alles Schwindel,The Principal and the Pauper,28. Sep. 1997,8. Okt. 1998
+2,181,3,Die Saxophon-Geschichte,Lisa’s Sax,19. Okt. 1997,9. Okt. 1998
+3,182,4,Neutronenkrieg und Halloween,Treehouse of Horror VIII,26. Okt. 1997,12. Okt. 1998
+4,183,5,Homer und der Revolver,The Cartridge Family,2. Nov. 1997,13. Okt. 1998
+5,184,6,Bart ist mein Superstar,Bart Star,9. Nov. 1997,14. Okt. 1998
+6,185,7,Hochzeit auf Indisch,The Two Mrs. Nahasapeemapetilons,16. Nov. 1997,15. Okt. 1998
+7,186,8,Der Tag der Abrechnung,Lisa the Skeptic,23. Nov. 1997,16. Okt. 1998
+8,187,9,Todesfalle zu verkaufen,Realty Bites,7. Dez. 1997,19. Okt. 1998
+9,188,10,Die Lieblings-Unglücksfamilie,Miracle on Evergreen Terrace,21. Dez. 1997,20. Okt. 1998
+10,189,11,Und nun alle singen und tanzen,"All Singing, All Dancing",4. Jan. 1998,16. Jan. 2000
+11,190,12,Die armen Vagabunden,Bart Carny,11. Jan. 1998,22. Okt. 1998
+12,191,13,In den Fängen einer Sekte,The Joy of Sect,8. Feb. 1998,23. Okt. 1998
+13,192,14,Der blöde Uno-Club,Das Bus,15. Feb. 1998,4. Nov. 1999
+14,193,15,Krustys letzte Versuchung,The Last Temptation of Krust,22. Feb. 1998,2. Okt. 1999
+15,194,16,Eine Frau für Moe,Dumbbell Indemnity,1. März 1998,26. Okt. 1998
+16,195,17,Vertrottelt Lisa?,Lisa the Simpson,8. März 1998,31. Dez. 1998
+17,196,18,Der merkwürdige Schlüssel,This Little Wiggy,22. März 1998,15. Mai 2000
+18,197,19,Homer geht zur Marine,Simpson Tide,29. März 1998,24. Mai 1999
+19,198,20,Die Trillion-Dollar-Note,The Trouble with Trillions,5. Apr. 1998,27. Okt. 1998
+20,199,21,Die neuesten Kindernachrichten,Girly Edition,19. Apr. 1998,28. Okt. 1998
+21,200,22,Die sich im Dreck wälzen,Trash of the Titans,26. Apr. 1998,6. Okt. 1998
+22,201,23,König der Berge,King of the Hill,3. Mai 1998,29. Okt. 1998
+23,202,24,Die Kugel der Isis,Lost Our Lisa,10. Mai 1998,30. Okt. 1998
+24,203,25,"Die Gefahr, erwischt zu werden",Natural Born Kissers,17. Mai 1998,2. Nov. 1998
